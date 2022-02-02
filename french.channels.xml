@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channels>
+<!-- 19.2E --><channel id="Mezzo.fr">1:0:19:1F4A:42E:1:C00000:0:0:0:</channel><!-- Mezzo HD -->
+
+<!-- 9.0E --><channel id="Museum.fr">1:0:19:363:C35A:9E:5A0000:0:0:0:</channel><!-- Museum -->
+
+<!-- 45.0E --><channel id="ChassePeche.fr">1:0:19:8B:1:D5:1C20000:0:0:0:</channel> <!-- Chasse et Pêche -->
+
+<!-- 45.0E --><channel id="Eurochannel.fr">1:0:1:1398:6:D5:1C20000:0:0:0:</channel> <!-- Eurochannel -->
+
+<!-- Misc --><channel id="TF1.fr">1:0:1:8:1:1:14AB136:0:0:0:</channel><!-- TF1 HD -->
+
+<!-- Misc --><channel id="TFX.fr">1:0:1:7:1:1:14AB136:0:0:0:</channel><!-- NT 1 -->
+
+<!-- Misc --><channel id="TMC.fr">1:0:1:6:1:1:14AB136:0:0:0:</channel><!-- TMC HD -->
+
+<!-- 13.0E --><channel id="M6.fr">1:0:19:78:3264:13E:820000:0:0:0:</channel><!-- M6 HD|  Suisse -->
+
+<!-- 13.0E --><channel id="TF1.fr">1:0:19:76:3264:13E:820000:0:0:0:</channel><!-- TF 1|  Suisse -->
+
+<!-- 19.2E --><channel id="PLANETEAandE.fr">1:0:19:26B8:43E:1:C00000:0:0:0:</channel><!-- Planète+ A&E HD -->
+
+<!-- 9.0E --><channel id="MezzoLive.fr">1:0:19:1FD:2134:9C:5A0000:0:0:0:</channel><!-- Mezzo Live -->
+
+<!-- 26.0E --><channel id="TIVI5Monde.fr">1:0:19:12C:1FE:2BE:1040000:0:0:0:</channel><!-- Tivi5 Monde -->
+
+<!-- 9.0E --><channel id="MyzenTV.fr">1:0:19:672:170C:9E:5A0000:0:0:0:</channel><!-- myZen.tv HD -->
+
+<!-- 9.0E --><channel id="TraceUrban.fr">1:0:1:F:170C:9E:5A0000:0:0:0:</channel><!-- Trace Urban -->
+
+<!-- 13.0E --><channel id="6Ter.fr">1:0:1:142:3E1C:13F:820000:0:0:0:</channel><!-- 6ter -->
+
+<!-- 13.0E --><channel id="AB1.fr">1:0:1:1C4:26AC:13F:820000:0:0:0:</channel><!-- AB1 -->
+
+<!-- 13.0E --><channel id="Action.fr">1:0:1:1CD:26AC:13F:820000:0:0:0:</channel><!-- ACTION -->
+
+<!-- 13.0E --><channel id="Animaux.fr">1:0:1:1C6:26AC:13F:820000:0:0:0:</channel><!-- ANIMAUX -->
+
+<!-- 13.0E --><channel id="Arte.fr">1:0:1:133:3E1C:13F:820000:0:0:0:</channel><!-- Arte HD -->
+
+<!-- 13.0E --><channel id="Automoto.fr">1:0:1:1C5:26AC:13F:820000:0:0:0:</channel><!-- Automoto la chaîne -->
+
+<!-- 13.0E --><channel id="BabyTV.fr">1:0:1:421D:2F44:13E:820000:0:0:0:</channel><!-- Baby TV -->
+
+<!-- 13.0E --><channel id="BeInSports1.fr">1:0:1:19A:3264:13E:820000:0:0:0:</channel><!-- Bein Sport1 -->
+
+<!-- 13.0E --><channel id="BeInSports2.fr">1:0:1:19B:3264:13E:820000:0:0:0:</channel><!-- Bein Sport2 HD -->
+
+<!-- 13.0E --><channel id="BeInSports3.fr">1:0:1:1FB9:2454:13E:820000:0:0:0:</channel><!-- Bein Sport3 -->
+
+<!-- 13.0E --><channel id="BFMTV.fr">1:0:1:19F:26AC:13F:820000:0:0:0:</channel><!-- BFM TV -->
+
+<!-- 13.0E --><channel id="Boing.fr">1:0:1:1FA6:2454:13E:820000:0:0:0:</channel><!-- Boing -->
+
+<!-- 13.0E --><channel id="Boomerang.fr">1:0:1:1FAF:2454:13E:820000:0:0:0:</channel><!-- Boomerang -->
+
+<!-- 13.0E --><channel id="C8.fr">1:0:1:134:3E1C:13F:820000:0:0:0:</channel><!-- C8 -->
+
+<!-- 13.0E --><channel id="ChassePeche.fr">1:0:1:1C7:26AC:13F:820000:0:0:0:</channel><!-- CHASSE & PECHE -->
+
+<!-- 13.0E --><channel id="Cherie25.fr">1:0:1:145:3E1C:13F:820000:0:0:0:</channel><!-- Cherie 25 -->
+
+<!-- 13.0E --><channel id="CNews.fr">1:0:1:13C:3E1C:13F:820000:0:0:0:</channel><!-- CNews -->
+
+<!-- 13.0E --><channel id="CrimeDistrict.fr">1:0:1:1C9:26AC:13F:820000:0:0:0:</channel><!-- Crime District -->
+
+<!-- 13.0E --><channel id="CStar.fr">1:0:1:1A1:26AC:13F:820000:0:0:0:</channel><!-- D17 -->
+
+<!-- 13.0E --><channel id="Eentertainment.fr">1:0:1:1FA9:2454:13E:820000:0:0:0:</channel><!-- E! -->
+
+<!-- 13.0E --><channel id="EquidiaLive.fr">1:0:1:1A5:26AC:13F:820000:0:0:0:</channel><!-- EQUIDIA -->
+
+<!-- 13.0E --><channel id="LEquipe.fr">1:0:1:141:3E1C:13F:820000:0:0:0:</channel><!-- L EQUIPE 21 -->
+
+<!-- 13.0E --><channel id="LEquipe.fr">1:0:1:1FB8:2454:13E:820000:0:0:0:</channel><!-- L EQUIPE 21 -->
+
+<!-- 13.0E --><channel id="Eurosport.fr">1:0:1:3306:190:13E:820000:0:0:0:</channel><!-- EUROSPORT HD -->
+
+<!-- 13.0E --><channel id="France2.fr">1:0:19:12E:3E1C:13F:820000:0:0:0:</channel><!-- France 2 HD -->
+
+<!-- 13.0E --><channel id="France3.fr">1:0:1:12F:3E1C:13F:820000:0:0:0:</channel><!-- France 3 -->
+
+<!-- 13.0E --><channel id="France4.fr">1:0:1:13A:3E1C:13F:820000:0:0:0:</channel><!-- France 4 -->
+
+<!-- 13.0E --><channel id="France5.fr">1:0:1:131:3E1C:13F:820000:0:0:0:</channel><!-- France 5 -->
+
+<!-- 13.0E --><channel id="Franceinfo.fr">1:0:1:1A3:26AC:13F:820000:0:0:0:</channel><!-- France Info -->
+
+<!-- 13.0E --><channel id="Golf.fr">1:0:1:1D6:26AC:13F:820000:0:0:0:</channel><!-- Golf -->
+
+<!-- 13.0E --><channel id="Golf.fr">1:0:1:445E:1F40:13E:820000:0:0:0:</channel><!-- Golf -->
+
+<!-- 13.0E --><channel id="Gulli.fr">1:0:1:1A2:26AC:13F:820000:0:0:0:</channel><!-- Gulli -->
+
+<!-- 13.0E --><channel id="LCI.fr">1:0:1:1FB1:2454:13E:820000:0:0:0:</channel><!-- LCI -->
+
+<!-- 13.0E --><channel id="LCP.fr">1:0:1:139:3E1C:13F:820000:0:0:0:</channel><!-- LCP -->
+
+<!-- 13.0E --><channel id="M6.fr">1:0:1:132:3E1C:13F:820000:0:0:0:</channel><!-- M6 -->
+
+<!-- 13.0E --><channel id="Mangas.fr">1:0:1:1CE:26AC:13F:820000:0:0:0:</channel><!-- MANGAS -->
+
+<!-- 13.0E --><channel id="MCM.fr">1:0:1:1FAE:2454:13E:820000:0:0:0:</channel><!-- MCM -->
+
+<!-- 13.0E --><channel id="MCMpop.fr">1:0:1:4464:1F40:13E:820000:0:0:0:</channel><!-- MCM POP -->
+
+<!-- 13.0E --><channel id="Mezzo.fr">1:0:1:29E5:1C20:13E:820000:0:0:0:</channel><!-- MEZZO -->
+
+<!-- 13.0E --><channel id="Mezzo.fr">1:0:1:29E5:3CF0:13E:820000:0:0:0:</channel><!-- MEZZO -->
+
+<!-- 13.0E --><channel id="NRJ12.fr">1:0:1:138:3E1C:13F:820000:0:0:0:</channel><!-- NRJ12 -->
+
+<!-- 13.0E --><channel id="OrangeCinechoc.fr">1:0:1:1FAB:2454:13E:820000:0:0:0:</channel><!-- Orange ciné choc -->
+
+<!-- 13.0E --><channel id="OrangeCineGeants.fr">1:0:1:1FAD:2454:13E:820000:0:0:0:</channel><!-- Orange ciné géants -->
+
+<!-- 13.0E --><channel id="OrangeCineHappy.fr">1:0:1:1FAA:2454:13E:820000:0:0:0:</channel><!-- Orange ciné City -->
+
+<!-- 13.0E --><channel id="OrangeCinemax.fr">1:0:19:1FC2:2454:13E:820000:0:0:0:</channel><!-- Orange ciné max HD -->
+
+<!-- 13.0E --><channel id="ParisPremiere.fr">1:0:1:1FB2:2454:13E:820000:0:0:0:</channel><!-- PARIS PREMIERE -->
+
+<!-- 13.0E --><channel id="PIWI.fr">1:0:1:1FA8:2454:13E:820000:0:0:0:</channel><!-- PIWI -->
+
+<!-- 13.0E --><channel id="RMCDecouverte.fr">1:0:1:144:3E1C:13F:820000:0:0:0:</channel><!-- RMC Decouverte -->
+
+<!-- 13.0E --><channel id="RMCStory.fr">1:0:1:143:3E1C:13F:820000:0:0:0:</channel><!-- RMC Story -->
+
+<!-- 13.0E --><channel id="RTL9.fr">1:0:1:1C3:26AC:13F:820000:0:0:0:</channel><!-- RTL9 -->
+
+<!-- 13.0E --><channel id="ScienceVie.fr">1:0:1:1CF:26AC:13F:820000:0:0:0:</channel><!-- Science et Vie -->
+
+<!-- 13.0E --><channel id="TeleMelody.fr">1:0:1:1FB7:2454:13E:820000:0:0:0:</channel><!-- TELE MELODY -->
+
+<!-- 13.0E --><channel id="TeleTOON.fr">1:0:1:1FB0:2454:13E:820000:0:0:0:</channel><!-- TELETOON+ -->
+
+<!-- 13.0E --><channel id="Teva.fr">1:0:1:1D2:26AC:13F:820000:0:0:0:</channel><!-- TEVA -->
+
+<!-- 13.0E --><channel id="TF1.fr">1:0:1:12D:3E1C:13F:820000:0:0:0:</channel><!-- TF1 HD -->
+
+<!-- 13.0E --><channel id="TF1SeriesFilms.fr">1:0:1:140:3E1C:13F:820000:0:0:0:</channel><!-- TF1 Series Films -->
+
+<!-- 13.0E --><channel id="TFX.fr">1:0:1:137:3E1C:13F:820000:0:0:0:</channel><!-- TFX -->
+
+<!-- 13.0E --><channel id="TMC.fr">1:0:1:136:3E1C:13F:820000:0:0:0:</channel><!-- TMC -->
+
+<!-- 13.0E --><channel id="TouteHistoire.fr">1:0:1:1CB:26AC:13F:820000:0:0:0:</channel><!-- Toute l'Histoire -->
+
+<!-- 13.0E --><channel id="Trek.fr">1:0:1:1CA:26AC:13F:820000:0:0:0:</channel><!-- TREK -->
+
+<!-- 13.0E --><channel id="TVBreizh.fr">1:0:1:1FA5:2454:13E:820000:0:0:0:</channel><!-- TV BREIZH -->
+
+<!-- 13.0E --><channel id="TVBreizh.fr">1:0:1:1C8:26AC:13F:820000:0:0:0:</channel><!-- TVBreizh -->
+
+<!-- 13.0E --><channel id="UltraNature.fr">1:0:1F:4B9:23F0:13E:820000:0:0:0:</channel><!-- Ultra Nature -->
+
+<!-- 13.0E --><channel id="UshuaiaTV.fr">1:0:1:1A4:26AC:13F:820000:0:0:0:</channel><!-- Ushuaia -->
+
+<!-- 13.0E --><channel id="W9.fr">1:0:1:135:3E1C:13F:820000:0:0:0:</channel><!-- W9 -->
+
+<!-- 19.2E --><channel id="6Ter.fr">1:0:19:1F4B:42E:1:C00000:0:0:0:</channel><!-- 6ter hd -->
+
+<!-- 19.2E --><channel id="A+.fr"></channel><!-- A+ -->
+
+<!-- 19.2E --><channel id="AB1.fr">1:0:19:427D:446:1:C00000:0:0:0:</channel><!-- AB1 -->
+
+<!-- 19.2E --><channel id="AB.3.fr">1:0:16:1006:451:35:C00000:0:0:0:</channel><!-- AB3 -->
+
+<!-- 19.2E --><channel id="Action.fr">1:0:19:4286:446:1:C00000:0:0:0:</channel><!-- Action -->
+
+<!-- 19.2E --><channel id="AlticeStudio.fr">1:0:19:2200:44C:1:C00000:0:0:0:</channel><!-- Altice studio -->
+
+<!-- 19.2E --><channel id="Animaux.fr">1:0:19:427E:446:1:C00000:0:0:0:</channel><!-- ANIMAUX HD -->
+
+<!-- 19.2E --><channel id="Arte.fr">1:0:19:2081:432:1:C00000:0:0:0:</channel><!-- ARTE HD -->
+
+<!-- 19.2E --><channel id="Automoto.fr">1:0:19:427C:446:1:C00000:0:0:0:</channel><!-- Automoto la chaîne -->
+
+<!-- 19.2E --><channel id="BeInSports1.fr">1:0:19:2462:440:1:C00000:0:0:0:</channel><!-- beIN SPORT1 HD -->
+
+<!-- 19.2E --><channel id="BeInSports2.fr">1:0:19:2012:430:1:C00000:0:0:0:</channel><!-- beIN SPORT2 HD -->
+
+<!-- 19.2E --><channel id="BeInSports3.fr">1:0:19:2013:430:1:C00000:0:0:0:</channel><!-- beIN SPORT3 -->
+
+<!-- 19.2E --><channel id="BeInSportsMax10.fr">1:0:19:2074:432:1:C00000:0:0:0:</channel><!-- beIN SPORT Max10 -->
+
+<!-- 19.2E --><channel id="BeInSportsMax4.fr">1:0:19:2009:430:1:C00000:0:0:0:</channel><!-- beIN SPORT Max4 -->
+
+<!-- 19.2E --><channel id="BeInSportsMax5.fr">1:0:19:200A:430:1:C00000:0:0:0:</channel><!-- beIN SPORT Max5 -->
+
+<!-- 19.2E --><channel id="BeInSportsMax6.fr">1:0:19:200B:430:1:C00000:0:0:0:</channel><!-- beIN SPORT Max6 -->
+
+<!-- 19.2E --><channel id="BeInSportsMax7.fr">1:0:19:2071:432:1:C00000:0:0:0:</channel><!-- beIN SPORT Max7 -->
+
+<!-- 19.2E --><channel id="BeInSportsMax8.fr">1:0:19:2072:432:1:C00000:0:0:0:</channel><!-- beIN SPORT Max8 -->
+
+<!-- 19.2E --><channel id="BeInSportsMax9.fr">1:0:19:2073:432:1:C00000:0:0:0:</channel><!-- beIN SPORT Max9 -->
+
+<!-- 19.2E --><channel id="BET.fr">1:0:19:1F41:42E:1:C00000:0:0:0:</channel><!-- BET France -->
+
+<!-- 19.2E --><channel id="BFMBusiness.fr">1:0:19:206F:432:1:C00000:0:0:0:</channel><!-- BFM Business -->
+
+<!-- 19.2E --><channel id="BFMTV.fr">1:0:19:206D:432:1:C00000:0:0:0:</channel><!-- BFM TV -->
+
+<!-- 19.2E --><channel id="Boing.fr">1:0:19:232D:442:1:C00000:0:0:0:</channel><!-- Boing HD -->
+
+<!-- 19.2E --><channel id="Boomerang.fr">1:0:19:2333:442:1:C00000:0:0:0:</channel><!-- Boomerang HD -->
+
+<!-- 19.2E --><channel id="C8.fr">1:0:19:2334:442:1:C00000:0:0:0:</channel><!-- C8 HD -->
+
+<!-- 19.2E --><channel id="CampagnesTV.fr"></channel><!-- CAMPAGNES TV -->
+
+<!-- 19.2E --><channel id="Canal+Docs.fr">1:0:19:22CE:434:1:C00000:0:0:0:</channel><!-- Canal+Docs -->
+
+<!-- 19.2E --><channel id="Canal+Kids.fr">1:0:19:2265:438:1:C00000:0:0:0:</channel><!-- Canal+Kids -->
+
+<!-- 19.2E --><channel id="CanalJ.fr">1:0:19:1F50:42E:1:C00000:0:0:0:</channel><!-- CANALJ HD -->
+
+<!-- 19.2E --><channel id="CanalPlus.fr">1:0:1F:2661:460:1:C00000:0:0:0: </channel><!-- CANAL+ -->
+
+<!-- 19.2E --><channel id="CanalPlus.fr">1:0:19:2261:438:1:C00000:0:0:0:</channel><!-- CANAL+ HD -->
+
+<!-- 19.2E --><channel id="CanalPlus.fr">1:0:19:22CD:434:1:C00000:0:0:0:</channel><!-- CANAL+ HD -->
+
+<!-- 19.2E --><channel id="CANALplusCINEMA.fr">1:0:19:2263:438:1:C00000:0:0:0:</channel><!-- CANAL+ CINEMA HD -->
+
+<!-- 19.2E --><channel id="CANALplusDECALE.fr">1:0:19:2262:438:1:C00000:0:0:0:</channel><!-- CANAL+ DECALE HD -->
+
+<!-- 19.2E --><channel id="CanalplusSeries.fr">1:0:19:2266:438:1:C00000:0:0:0:</channel><!-- CANAL+ Series HD -->
+
+<!-- 19.2E --><channel id="CanalPlusSport.fr">1:0:19:2264:438:1:C00000:0:0:0:</channel><!-- CANAL+ SPORT HD -->
+
+<!-- 19.2E --><channel id="CartoonNetwork.fr">1:0:19:245C:440:1:C00000:0:0:0:</channel><!-- Cartoon Network -->
+
+<!-- 19.2E --><channel id="ChassePeche.fr">1:0:19:428C:446:1:C00000:0:0:0:</channel><!-- CHASSE ET PECHE -->
+
+<!-- 19.2E --><channel id="Cherie25.fr">1:0:1:2F6C:454:1:C00000:0:0:0:</channel><!-- Cherie 25 -->
+
+<!-- 19.2E --><channel id="Cherie25.fr">1:0:1:2F6D:454:1:C00000:0:0:0:</channel><!-- Cherie 25 -->
+
+<!-- 19.2E --><channel id="CinecinemaClassic.fr">1:0:19:2269:438:1:C00000:0:0:0:</channel><!-- CINE+ Classic -->
+
+<!-- 19.2E --><channel id="CinecinemaClub.fr">1:0:19:200E:430:1:C00000:0:0:0:</channel><!-- CINE+ Club -->
+
+<!-- 19.2E --><channel id="CinecinemaEmotion.fr">1:0:19:245B:440:1:C00000:0:0:0:</channel><!-- CINE+ Emotion -->
+
+<!-- 19.2E --><channel id="CinecinemaFamiz.fr">1:0:19:2268:438:1:C00000:0:0:0:</channel><!-- CINE+ Famiz -->
+
+<!-- 19.2E --><channel id="CinecinemaFrisson.fr">1:0:19:2267:438:1:C00000:0:0:0:</channel><!-- CINE+ Frisson -->
+
+<!-- 19.2E --><channel id="CinecinemaPremier.fr">1:0:19:2456:440:1:C00000:0:0:0:</channel><!-- CINE+ Premier -->
+
+<!-- 19.2E --><channel id="CliqueTV.fr">1:0:19:22C5:434:1:C00000:0:0:0:</channel><!-- Clique TV -->
+
+<!-- 19.2E --><channel id="CNews.fr">1:0:19:2336:442:1:C00000:0:0:0:</channel><!-- Cnews -->
+
+<!-- 19.2E --><channel id="Comedie.fr">1:0:19:1F51:42E:1:C00000:0:0:0:</channel><!-- Comedie+ -->
+
+<!-- 19.2E --><channel id="ComedyCentral.fr">1:0:19:22C8:434:1:C00000:0:0:0:</channel><!-- Comedy Central -->
+
+<!-- 19.2E --><channel id="CStar.fr">1:0:19:2335:442:1:C00000:0:0:0:</channel><!-- Cstar -->
+
+<!-- 19.2E --><channel id="CStarHits.fr">1:0:19:24C2:43C:1:C00000:0:0:0:</channel><!-- C Star Hits France -->
+
+<!-- 19.2E --><channel id="Disney+.fr">1:0:19:2016:430:1:C00000:0:0:0:</channel><!-- Disney+ -->
+
+<!-- 19.2E --><channel id="DisneyChannel.fr">1:0:19:232F:442:1:C00000:0:0:0:</channel><!-- DISNEY HD -->
+
+<!-- 19.2E --><channel id="DisneyChannelPlus1.fr">1:0:19:24C0:43C:1:C00000:0:0:0:</channel><!-- Disney Channel+1 HD -->
+
+<!-- 19.2E --><channel id="DisneyJunior.fr">1:0:19:22CA:434:1:C00000:0:0:0:</channel><!-- DISNEY JUNIOR HD -->
+
+<!-- 19.2E --><channel id="EquidiaLive.fr">1:0:19:22D3:434:1:C00000:0:0:0:</channel><!-- EQUIDIA LIVE -->
+
+<!-- 19.2E --><channel id="LEquipe.fr">1:0:19:2076:432:1:C00000:0:0:0:</channel><!-- L EQUIPE 21 -->
+
+<!-- 19.2E --><channel id="ES1.fr">1:0:19:21FF:44C:1:C00000:0:0:0:</channel><!-- ES1 -->
+
+<!-- 19.2E --><channel id="Eurosport.fr">1:0:19:2461:440:1:C00000:0:0:0:</channel><!-- EUROSPORT HD -->
+
+<!-- 19.2E --><channel id="Eurosport2.fr">1:0:19:24BE:43C:1:C00000:0:0:0:</channel><!-- EUROSPORT 2 HD -->
+
+<!-- 19.2E --><channel id="FootPlus2424.fr">1:0:19:24C8:43C:1:C00000:0:0:0:</channel><!-- Foot 24 -->
+
+<!-- 19.2E --><channel id="France2.fr">1:0:19:245A:440:1:C00000:0:0:0:</channel><!-- FRANCE 2 HD -->
+
+<!-- 19.2E --><channel id="France3.fr">1:0:19:245D:440:1:C00000:0:0:0:</channel><!-- FRANCE 3 HD -->
+
+<!-- 19.2E --><channel id="France3.Alpes.fr">1:0:1:21A2:448:1:C00000:0:0:0:</channel><!-- F3 ALPES -->
+
+<!-- 19.2E --><channel id="France3.Alsace.fr">1:0:1:21A9:448:1:C00000:0:0:0:</channel><!-- F3 ALSACE -->
+
+<!-- 19.2E --><channel id="France3Aquitaine.fr">1:0:1:207B:432:1:C00000:0:0:0:</channel><!-- F3 AQUITAINE -->
+
+<!-- 19.2E --><channel id="France3.NouvelleAquitaine.fr">1:0:1:21AA:448:1:C00000:0:0:0:</channel><!-- F3 NOUVELLE AQUITAINE -->
+
+<!-- 19.2E --><channel id="France3.Auvergne.fr">1:0:1:2338:442:1:C00000:0:0:0:</channel><!-- F3 AUVERGNE -->
+
+<!-- 19.2E --><channel id="France3.BasseNormandie.fr">1:0:1:2649:460:1:C00000:0:0:0:</channel><!-- F3 BNORMANDIE -->
+
+<!-- 19.2E --><channel id="France3.Bourgogne.fr">1:0:1:21A1:448:1:C00000:0:0:0:</channel><!-- F3 BOURGOGNE -->
+
+<!-- 19.2E --><channel id="France3.Bretagne.fr">1:0:1:200F:430:1:C00000:0:0:0:</channel><!-- F3 BRETAGNE -->
+
+<!-- 19.2E --><channel id="France3.CentreValDeLoire.fr">1:0:1:264C:460:1:C00000:0:0:0:</channel><!-- F3 CENTRE -->
+
+<!-- 19.2E --><channel id="France3.ChampagneArdennes.fr">1:0:1:21A7:448:1:C00000:0:0:0:</channel><!-- F3 CHAMP ARDENNE -->
+
+<!-- 19.2E --><channel id="France3Corse.fr">1:0:1:2270:438:1:C00000:0:0:0:</channel><!-- F3 CORSEVIASTELLA -->
+
+<!-- 19.2E --><channel id="France3.CoteDAzur.fr">1:0:1:264B:460:1:C00000:0:0:0:</channel><!-- F3 COTE D'AZUR -->
+
+<!-- 19.2E --><channel id="France3.FrancheComte.fr">1:0:1:21A0:448:1:C00000:0:0:0:</channel><!-- F3 FRANCHE COMTE -->
+
+<!-- 19.2E --><channel id="France3.HauteNormandie.fr">1:0:1:21A8:448:1:C00000:0:0:0:</channel><!-- F3 HNORMANDIE -->
+
+<!-- 19.2E --><channel id="France3.LanguedocRoussillon.fr">1:0:1:2464:440:1:C00000:0:0:0:</channel><!-- F3 LANGUEDOCROU -->
+
+<!-- 19.2E --><channel id="France3.Limousin.fr">1:0:1:21A3:448:1:C00000:0:0:0:</channel><!-- F3 LIMOUSIN -->
+
+<!-- 19.2E --><channel id="France3.Lorraine.fr">1:0:1:21A4:448:1:C00000:0:0:0:</channel><!-- F3 LORRAINE -->
+
+<!-- 19.2E --><channel id="France3.MidiPyrenees.fr">1:0:1:22D2:434:1:C00000:0:0:0:</channel><!-- F3 MIDI PYRENEES -->
+
+<!-- 19.2E --><channel id="France3.NordPasDeCalais.fr">1:0:1:220C:44C:1:C00000:0:0:0:</channel><!-- F3 NORD PDC -->
+
+<!-- 19.2E --><channel id="France3.ParisIleDeFrance.fr">1:0:1:21A5:448:1:C00000:0:0:0:</channel><!-- F3 PARIS IDF -->
+
+<!-- 19.2E --><channel id="France3.PaysDeLaLoire.fr">1:0:1:264A:460:1:C00000:0:0:0:</channel><!-- F3 PAYS DE LA LOIRE -->
+
+<!-- 19.2E --><channel id="France3.Picardie.fr">1:0:1:219E:448:1:C00000:0:0:0:</channel><!-- F3 PICARDIE -->
+
+<!-- 19.2E --><channel id="France3.PoitouCharentes.fr">1:0:1:21A6:448:1:C00000:0:0:0:</channel><!-- F3 POITOUCHAR -->
+
+<!-- 19.2E --><channel id="France3.ProvenceAlpes.fr">1:0:1:24BD:43C:1:C00000:0:0:0:</channel><!-- F3 PROV ALPES -->
+
+<!-- 19.2E --><channel id="France3.RhoneAlpes.fr">1:0:1:1F47:42E:1:C00000:0:0:0:</channel><!-- F3 RHONE ALPES -->
+
+<!-- 19.2E --><channel id="France4.fr">1:0:19:21FD:44C:1:C00000:0:0:0:</channel><!-- FRANCE 4 HD -->
+
+<!-- 19.2E --><channel id="France5.fr">1:0:19:2330:442:1:C00000:0:0:0:</channel><!-- FRANCE 5 HD -->
+
+<!-- 19.2E --><channel id="Franceinfo.fr">1:0:19:1F45:42E:1:C00000:0:0:0:</channel><!-- France Info -->
+
+<!-- 19.2E --><channel id="GameOne.fr">1:0:19:24C7:43C:1:C00000:0:0:0:</channel><!-- Game One -->
+
+<!-- 19.2E --><channel id="Golfplus.fr">1:0:19:2207:44C:1:C00000:0:0:0:</channel><!-- GOLF+ HD -->
+
+<!-- 19.2E --><channel id="GongMax.fr"></channel><!-- Gong Max -->
+
+<!-- 19.2E --><channel id="Gulli.fr">1:0:19:2083:432:1:C00000:0:0:0:</channel><!-- GULLI HD -->
+
+<!-- 19.2E --><channel id="Histoire.fr">1:0:19:1F46:42E:1:C00000:0:0:0:</channel><!-- HISTOIRE HD -->
+
+<!-- 19.2E --><channel id="InfosportPlus.fr">1:0:19:2332:442:1:C00000:0:0:0:</channel><!-- INFOSPORT+ HD -->
+
+<!-- 19.2E --><channel id="JOne.fr">1:0:19:226A:438:1:C00000:0:0:0:</channel><!-- J-OneHD -->
+
+<!-- 19.2E --><channel id="LaChaineMeteo.fr">1:0:19:2077:432:1:C00000:0:0:0:</channel><!-- La Chaine Meteo -->
+
+<!-- 19.2E --><channel id="LCI.fr">1:0:1:146:3E1C:13F:820000:0:0:0:</channel><!-- LCI HD -->
+
+<!-- 19.2E --><channel id="LCI.fr">1:0:19:2331:442:1:C00000:0:0:0:</channel><!-- LCI HD -->
+
+<!-- 19.2E --><channel id="LCP.fr">1:0:19:2337:442:1:C00000:0:0:0:</channel><!-- LCP HD -->
+
+<!-- 19.2E --><channel id="M6.fr">1:0:19:2457:440:1:C00000:0:0:0:</channel><!-- M6 HD -->
+
+<!-- 19.2E --><channel id="M6MusicHits.fr">1:0:19:22C9:434:1:C00000:0:0:0:</channel><!-- M6 MUSIC HD -->
+
+<!-- 19.2E --><channel id="Mangas.fr">1:0:1:4287:446:1:C00000:0:0:0:</channel><!-- MANGAS -->
+
+<!-- 19.2E --><channel id="MCM.fr">1:0:19:220A:44C:1:C00000:0:0:0:</channel><!-- MCM HD -->
+
+<!-- 19.2E --><channel id="Mezzo.fr">1:0:1:7699:41E:1:C00000:0:0:0:</channel><!-- MEZZO HD -->
+
+<!-- 19.2E --><channel id="MezzoLive.fr">1:0:19:1F4C:42E:1:C00000:0:0:0:</channel><!-- MEZZO LIVE HD -->
+
+<!-- 19.2E --><channel id="MTV.fr">1:0:19:1F44:42E:1:C00000:0:0:0:</channel><!-- MTV FRANCE HD -->
+
+<!-- 19.2E --><channel id="MTVHits.fr">1:0:19:1F43:42E:1:C00000:0:0:0:</channel><!-- MTV HITS -->
+
+<!-- 19.2E --><channel id="Multisports1.fr">1:0:19:1F4D:42E:1:C00000:0:0:0:</channel><!-- MULTISPORTS 1 -->
+
+<!-- 19.2E --><channel id="Multisports2.fr">1:0:19:22D1:434:1:C00000:0:0:0:</channel><!-- MULTISPORTS 2 -->
+
+<!-- 19.2E --><channel id="Multisports3.fr">1:0:19:2209:44C:1:C00000:0:0:0:</channel><!-- MULTISPORTS 3 -->
+
+<!-- 19.2E --><channel id="Multisports4.fr">1:0:19:220B:44C:1:C00000:0:0:0:</channel><!-- MULTISPORTS 4 -->
+
+<!-- 19.2E --><channel id="Multisports5.fr">1:0:19:22C7:434:1:C00000:0:0:0:</channel><!-- MULTISPORTS 5 -->
+
+<!-- 19.2E --><channel id="Multisports6.fr">1:0:19:219D:448:1:C00000:0:0:0:</channel><!-- MULTISPORTS 6 -->
+
+<!-- 19.2E --><channel id="Museum.fr">1:0:19:22CF:434:1:C00000:0:0:0:</channel><!-- Museum -->
+
+<!-- 19.2E --><channel id="Museum.fr">1:0:19:26AD:43E:1:C00000:0:0:0:</channel><!-- Museum -->
+
+<!-- 19.2E --><channel id="NatGeoWildHD.fr">1:0:19:21FE:44C:1:C00000:0:0:0:</channel><!-- NAT GEO WILD HD -->
+
+<!-- 19.2E --><channel id="NationalGeographic.fr">1:0:19:232A:442:1:C00000:0:0:0:</channel><!-- NATIONAL GEO HD -->
+
+<!-- 19.2E --><channel id="Nick4teens.fr">1:0:19:2079:432:1:C00000:0:0:0:</channel><!-- Nickelodeon 4Teens HD -->
+
+<!-- 19.2E --><channel id="Nickelodeon.fr">1:0:19:1F48:42E:1:C00000:0:0:0:</channel><!-- NICKELODEON France -->
+
+<!-- 19.2E --><channel id="NickelodeonPlus1.fr">1:0:19:2010:430:1:C00000:0:0:0:</channel><!-- NICKELODEON France +1 -->
+
+<!-- 19.2E --><channel id="NickJr.fr">1:0:19:22D0:434:1:C00000:0:0:0:</channel><!-- Nick Jr France -->
+
+<!-- 19.2E --><channel id="NovelasTV.fr">1:0:19:24BF:43C:1:C00000:0:0:0:</channel><!-- Novelas TV -->
+
+<!-- 19.2E --><channel id="NRJ12.fr">1:0:1:2F71:454:1:C00000:0:0:0:</channel><!-- NRJ 12 -->
+
+<!-- 19.2E --><channel id="NRJ12.fr">1:0:1:2F72:454:1:C00000:0:0:0:</channel><!-- NRJ 12 -->
+
+<!-- 19.2E --><channel id="NRJHits.fr">1:0:19:200C:430:1:C00000:0:0:0:</channel><!-- NRJ HITS HD -->
+
+<!-- 19.2E --><channel id="Olympia.fr">1:0:19:1F42:42E:1:C00000:0:0:0:</channel><!-- Olympia TV -->
+
+<!-- 19.2E --><channel id="OrangeCinechoc.fr">1:0:19:24BC:43C:1:C00000:0:0:0:</channel><!-- OCS Choc HD -->
+
+<!-- 19.2E --><channel id="OrangeCineGeants.fr">1:0:19:219A:448:1:C00000:0:0:0:</channel><!-- OCS GEANTS HD -->
+
+<!-- 19.2E --><channel id="OrangeCineHappy.fr">1:0:19:226D:438:1:C00000:0:0:0:</channel><!-- OCS City HD -->
+
+<!-- 19.2E --><channel id="OrangeCinemax.fr">1:0:19:226E:438:1:C00000:0:0:0:</channel><!-- OCS Max HD -->
+
+<!-- 19.2E --><channel id="ParamountChannel.fr">1:0:19:219C:448:1:C00000:0:0:0:</channel><!-- Paramount Channel -->
+
+<!-- 19.2E --><channel id="ParisPremiere.fr">1:0:19:232C:442:1:C00000:0:0:0:</channel><!-- PARIS PREMIERE HD -->
+
+<!-- 19.2E --><channel id="PereNoel.fr">1:0:19:19D1:444:1:C00000:0:0:0:</channel><!-- Pere Noel -->
+
+<!-- 19.2E --><channel id="PIWI.fr">1:0:19:226B:438:1:C00000:0:0:0:</channel><!-- PIWI+ HD -->
+
+<!-- 19.2E --><channel id="PLANETE.fr">1:0:19:232E:442:1:C00000:0:0:0:</channel><!-- PLANETE+ HD -->
+
+<!-- 19.2E --><channel id="PLANETEAandE.fr">1:0:19:2208:44C:1:C00000:0:0:0:</channel><!-- PLANETE AandE -->
+
+<!-- 19.2E --><channel id="PLANETEJustice.fr">1:0:19:24C1:43C:1:C00000:0:0:0:</channel><!-- PLANETE CI HD -->
+
+<!-- 19.2E --><channel id="PolarPlus.fr">1:0:19:206E:432:1:C00000:0:0:0:</channel><!-- Polar+ -->
+
+<!-- 19.2E --><channel id="RFMTV.fr">1:0:19:2202:44C:1:C00000:0:0:0:</channel><!-- RFM TV HD -->
+
+<!-- 19.2E --><channel id="RMCDecouverte.fr">1:0:19:2011:430:1:C00000:0:0:0:</channel><!-- RMC Decouverte -->
+
+<!-- 19.2E --><channel id="RMCSport1.fr"></channel><!-- RMC Sport 1 -->
+
+<!-- 19.2E --><channel id="RMCSport2.fr">1:0:19:19C9:444:1:C00000:0:0:0:</channel><!-- RMC Sport 2 -->
+
+<!-- 19.2E --><channel id="RMCSport3.fr"></channel><!-- RMC Sport 3 -->
+
+<!-- 19.2E --><channel id="RMCSport4.fr"></channel><!-- RMC Sport 4 -->
+
+<!-- 19.2E --><channel id="RMCStory.fr">1:0:19:2075:432:1:C00000:0:0:0:</channel><!-- RMC Story -->
+
+<!-- 19.2E --><channel id="RTL9.fr">1:0:19:428B:446:1:C00000:0:0:0:</channel><!-- RTL9 -->
+
+<!-- 19.2E --><channel id="ScienceVie.fr">1:0:19:427F:446:1:C00000:0:0:0:</channel><!-- SCIENCE ET VIE -->
+
+<!-- 19.2E --><channel id="Seasons.fr">1:0:19:19D2:444:1:C00000:0:0:0:</channel><!-- SEASONS HD -->
+
+<!-- 19.2E --><channel id="Seasons.fr">1:0:19:219F:448:1:C00000:0:0:0:</channel><!-- SEASONS HD -->
+
+<!-- 19.2E --><channel id="SerieClub.fr">1:0:19:22D5:434:1:C00000:0:0:0:</channel><!-- Serie Club -->
+
+<!-- 19.2E --><channel id="StingrayBrava.fr">1:0:19:19D5:444:1:C00000:0:0:0:</channel><!-- BRAVA HD -->
+
+<!-- 19.2E --><channel id="StingrayClassica.fr">1:0:19:200D:430:1:C00000:0:0:0:</channel><!-- Steinway Classica -->
+
+<!-- 19.2E --><channel id="StingrayDjazz.fr">1:0:19:22CB:434:1:C00000:0:0:0:</channel><!-- DJAZZ.TV HD -->
+
+<!-- 19.2E --><channel id="TCM.fr">1:0:19:2329:442:1:C00000:0:0:0:</channel><!-- TCM Cinema -->
+
+<!-- 19.2E --><channel id="TeleMelody.fr">1:0:19:2017:430:1:C00000:0:0:0:</channel><!-- MELODY HD -->
+
+<!-- 19.2E --><channel id="TeleTOON.fr">1:0:19:24C3:43C:1:C00000:0:0:0:</channel><!-- TELETOON+ HD -->
+
+<!-- 19.2E --><channel id="TeleTOONplus1.fr">1:0:19:24C4:43C:1:C00000:0:0:0:</channel><!-- TELETOON+1 HD -->
+
+<!-- 19.2E --><channel id="Teva.fr">1:0:19:2206:44C:1:C00000:0:0:0:</channel><!-- Teva -->
+
+<!-- 19.2E --><channel id="TF1.fr">1:0:19:2460:440:1:C00000:0:0:0:</channel><!-- TF1 HD -->
+
+<!-- 19.2E --><channel id="TF1SeriesFilms.fr">1:0:19:232B:442:1:C00000:0:0:0:</channel><!-- TF1 Series Films -->
+
+<!-- 19.2E --><channel id="TFX.fr">1:0:19:2014:430:1:C00000:0:0:0:</channel><!-- TFX -->
+
+<!-- 19.2E --><channel id="Tiji.fr">1:0:19:2203:44C:1:C00000:0:0:0:</channel><!-- TIJI HD -->
+
+<!-- 19.2E --><channel id="TMC.fr">1:0:19:2015:430:1:C00000:0:0:0:</channel><!-- TMC HD -->
+
+<!-- 19.2E --><channel id="Toonami.fr">1:0:19:245E:440:1:C00000:0:0:0:</channel><!-- Toonami -->
+
+<!-- 19.2E --><channel id="TouteHistoire.fr">1:0:1:4282:446:1:C00000:0:0:0:</channel><!-- toute L'HISTOIRE -->
+
+<!-- 19.2E --><channel id="TraceLatina.fr">1:0:19:1F4F:42E:1:C00000:0:0:0</channel><!-- Trace Latina -->
+
+<!-- 19.2E --><channel id="TraceUrban.fr">1:0:19:24C6:43C:1:C00000:0:0:0:</channel><!-- Trace Urban -->
+
+<!-- 19.2E --><channel id="TVBreizh.fr">1:0:19:2201:44C:1:C00000:0:0:0:</channel><!-- TV BREIZH HD -->
+
+<!-- 19.2E --><channel id="UshuaiaTV.fr">1:0:19:2459:440:1:C00000:0:0:0:</channel><!-- USHUAIA TV HD -->
+
+<!-- 19.2E --><channel id="Voyage.fr">1:0:19:19CD:444:1:C00000:0:0:0:</channel><!-- VOYAGE HD -->
+
+<!-- 19.2E --><channel id="W9.fr">1:0:19:2458:440:1:C00000:0:0:0:</channel><!-- W9 -->
+
+<!-- 19.2E --><channel id="Warnertv.fr">1:0:19:2018:430:1:C00000:0:0:0:</channel><!-- Warner TV -->
+
+<!-- 26.0E --><channel id="AB1.fr">1:0:19:259:1A:800:1040000:0:0:0:</channel><!-- AB1 -->
+
+<!-- 26.0E --><channel id="Action.fr">1:0:19:25C:1A:800:1040000:0:0:0:</channel><!-- Action -->
+
+<!-- 26.0E --><channel id="Automoto.fr">1:0:19:26A:1A:800:1040000:0:0:0:</channel><!-- ABMoteurs -->
+
+<!-- 26.0E --><channel id="ChassePeche.fr">1:0:19:261:1A:800:1040000:0:0:0:</channel><!-- Chasse et Peche -->
+
+<!-- 26.0E --><channel id="CineFX.fr">1:0:19:25D:1A:800:1040000:0:0:0:</channel><!-- CineFX -->
+
+<!-- 26.0E --><channel id="CinePolar.fr">1:0:19:25E:1A:800:1040000:0:0:0:</channel><!-- CinePolar -->
+
+<!-- 26.0E --><channel id="Golf.fr">1:0:19:268:1A:800:1040000:0:0:0:</channel><!-- Golf Channel France -->
+
+<!-- 26.0E --><channel id="Mangas.fr">1:0:19:25F:1A:800:1040000:0:0:0:</channel><!-- Mangas -->
+
+<!-- 26.0E --><channel id="RTL9.fr">1:0:19:25B:1A:800:1040000:0:0:0:</channel><!-- RTL9 -->
+
+<!-- 26.0E --><channel id="ScienceVie.fr">1:0:19:266:1A:800:1040000:0:0:0:</channel><!-- Science et Vie -->
+
+<!-- 26.0E --><channel id="Trek.fr">1:0:19:260:1A:800:1040000:0:0:0:</channel><!-- Trek -->
+
+<!-- 33.0E --><channel id="TF1.fr">1:0:1:8:1:1:14AB135:0:0:0:</channel><!-- TF1 HD -->
+
+<!-- 33.0E --><channel id="TFX.fr">1:0:1:7:1:1:14AB135:0:0:0:</channel><!-- TFX -->
+
+<!-- 33.0E --><channel id="TMC.fr">1:0:1:6:1:1:14AB135:0:0:0:</channel><!-- TMC -->
+
+<!-- 5.0W --><channel id="13RUE.fr">1:0:19:57E:5398:55F:DDE0000:0:0:0:</channel><!-- 13ème Rue -->
+
+<!-- 5.0W --><channel id="13RUE.fr">1:0:19:724:2904:55F:DDE0000:0:0:0:</channel><!-- 13ème Rue -->
+
+<!-- 5.0W --><channel id="6Ter.fr">1:0:1:BBA:4E84:55F:DDE0000:0:0:0:</channel><!-- 6ter -->
+
+<!-- 5.0W --><channel id="6Ter.fr">1:0:19:1A6:4FB0:55F:DDE0000:0:0:0:</channel><!-- 6ter -->
+
+<!-- 5.0W --><channel id="6Ter.fr">1:0:19:416:4:20FA:DDE0000:0:0:0:</channel><!-- 6ter -->
+
+<!-- 5.0W --><channel id="AB1.fr">1:0:19:CB:4EE8:55F:DDE0000:0:0:0:</channel><!-- AB 1 -->
+
+<!-- 5.0W --><channel id="Action.fr">1:0:19:D4:4EE8:55F:DDE0000:0:0:0:</channel><!-- ACTION -->
+
+<!-- 5.0W --><channel id="ALAMAISON.fr">1:0:16:BC9:4E84:55F:DDE0000:0:0:0:</channel><!-- A la Maison -->
+
+<!-- 5.0W --><channel id="#ALaMAISON.fr">1:0:16:D5:4EE8:55F:DDE0000:0:0:0:</channel><!-- A la Maison -->
+
+<!-- 5.0W --><channel id="AlticeStudio.fr">1:0:19:516:5208:55F:DDE0000:0:0:0:</channel><!-- Altice studio -->
+
+<!-- 5.0W --><channel id="AlticeStudio.fr">1:0:19:70B:2904:55F:DDE0000:0:0:0:</channel><!-- Altice studio -->
+
+<!-- 5.0W --><channel id="Animaux.fr">1:0:19:D0:4EE8:55F:DDE0000:0:0:0:</channel><!-- ANIMAUX -->
+
+<!-- 5.0W --><channel id="Arte.fr">1:0:19:194:4FB0:55F:DDE0000:0:0:0:</channel><!-- Arte HD -->
+
+<!-- 5.0W --><channel id="Arte.fr">1:0:19:407:4:20FA:DDE0000:0:0:0:</channel><!-- Arte HD -->
+
+<!-- 5.0W --><channel id="Automoto.fr">1:0:19:CC:4EE8:55F:DDE0000:0:0:0:</channel><!-- Automoto la chaîne -->
+
+<!-- 5.0W --><channel id="BeInSports1.fr">1:0:1:1FC:5014:55F:DDE0000:0:0:0:</channel><!-- beIN SPORT1 -->
+
+<!-- 5.0W --><channel id="BeInSports1.fr">1:0:19:B52:51A4:55F:DDE0000:0:0:0:</channel><!-- beIN SPORT1 HD -->
+
+<!-- 5.0W --><channel id="BeInSports2.fr">1:0:1:1FF:5014:55F:DDE0000:0:0:0:</channel><!-- beIN SPORT2 -->
+
+<!-- 5.0W --><channel id="BeInSports2.fr">1:0:19:B53:51A4:55F:DDE0000:0:0:0:</channel><!-- beIN SPORT2 HD -->
+
+<!-- 5.0W --><channel id="BeInSports3.fr">1:0:19:B81:51A4:55F:DDE0000:0:0:0:</channel><!-- beIN SPORT3 HD -->
+
+<!-- 5.0W --><channel id="BFMAlpesduSud.fr">1:0:19:722:2904:55F:DDE0000:0:0:0:</channel><!-- BFM Alpes du Sud -->
+
+<!-- 5.0W --><channel id="BFMBusiness.fr">1:0:19:71E:2904:55F:DDE0000:0:0:0:</channel><!-- Altice studio -->
+
+<!-- 5.0W --><channel id="BFMBusiness.fr">1:0:1:C8:4EE8:55F:DDE0000:0:0:0:</channel><!-- BFM Business -->
+
+<!-- 5.0W --><channel id="BFMBusiness.fr">1:0:16:A36:5078:55F:DDE0000:0:0:0:</channel><!-- BFM Business -->
+
+<!-- 5.0W --><channel id="BFMBusiness.fr">1:0:19:57C:5398:55F:DDE0000:0:0:0:</channel><!-- BFM Business -->
+
+<!-- 5.0W --><channel id="BFMdici.fr">1:0:16:BCA:4E84:55F:DDE0000:0:0:0:</channel><!-- BFM DICI -->
+
+<!-- 5.0W --><channel id="BFMLyon.fr">1:0:19:723:2904:55F:DDE0000:0:0:0:</channel><!-- BFM Lyon -->
+
+<!-- 5.0W --><channel id="BFMParis.fr">1:0:19:57B:5398:55F:DDE0000:0:0:0:</channel><!-- BFM PARIS -->
+
+<!-- 5.0W --><channel id="BFMParis.fr">1:0:19:58D:5398:55F:DDE0000:0:0:0:</channel><!-- BFM PARIS -->
+
+<!-- 5.0W --><channel id="BFMParis.fr">1:0:19:71F:2904:55F:DDE0000:0:0:0:</channel><!-- BFM PARIS -->
+
+<!-- 5.0W --><channel id="BFMSport.fr">1:0:19:57A:5398:55F:DDE0000:0:0:0:</channel><!-- BFM SPORT -->
+
+<!-- 5.0W --><channel id="BFMSport.fr">1:0:19:57A:5398:55F:FFCE0000:0:0:0:</channel><!-- BFM SPORT -->
+
+<!-- 5.0W --><channel id="BFMTV.fr">1:0:19:203:2:20FA:DDE0000:0:0:0:</channel><!-- BFM TV -->
+
+<!-- 5.0W --><channel id="BFMTV.fr">1:0:19:BC4:4E84:55F:DDE0000:0:0:0:</channel><!-- BFM TV -->
+
+<!-- 5.0W --><channel id="C8.fr">1:0:19:BC5:4E84:55F:DDE0000:0:0:0:</channel><!-- C8 -->
+
+<!-- 5.0W --><channel id="C8.fr">1:0:19:201:2:20FA:DDE0000:0:0:0:</channel><!-- C8 HD -->
+
+<!-- 5.0W --><channel id="CanalPlus.fr">1:0:19:301:3:20FA:DDE0000:0:0:0:</channel><!-- CANAL+ -->
+
+<!-- 5.0W --><channel id="CanalPlus.fr">1:0:19:30A:3:20FA:DDE0000:0:0:0:</channel><!-- CANAL+ -->
+
+<!-- 5.0W --><channel id="CanalPlus.fr">1:0:19:132:4F4C:55F:DDE0000:0:0:0:</channel><!-- CANAL+ HD -->
+
+<!-- 5.0W --><channel id="CANALplusCINEMA.fr">1:0:19:302:3:20FA:DDE0000:0:0:0:</channel><!-- CANAL+ CINEMA HD -->
+
+<!-- 5.0W --><channel id="CanalPlusSport.fr">1:0:19:303:3:20FA:DDE0000:0:0:0:</channel><!-- CANAL+ SPORT HD -->
+
+<!-- 5.0W --><channel id="ChassePeche.fr">1:0:16:D3:4EE8:55F:DDE0000:0:0:0:</channel><!-- CHASSE ET PECHE -->
+
+<!-- 5.0W --><channel id="Cherie25.fr">1:0:19:A03:A:20FA:DDE0000:0:0:0:</channel><!-- Cherie 25 -->
+
+<!-- 5.0W --><channel id="Cherie25.fr">1:0:19:BBD:4E84:55F:DDE0000:0:0:0:</channel><!-- Cherie 25 -->
+
+<!-- 5.0W --><channel id="CNews.fr">1:0:19:204:2:20FA:DDE0000:0:0:0:</channel><!-- CNews HD -->
+
+<!-- 5.0W --><channel id="CNews.fr">1:0:19:BC3:4E84:55F:DDE0000:0:0:0:</channel><!-- CNews HD -->
+
+<!-- 5.0W --><channel id="CrimeDistrict.fr">1:0:19:D7:4EE8:55F:DDE0000:0:0:0:</channel><!-- Crime District -->
+
+<!-- 5.0W --><channel id="CStar.fr">1:0:19:BC6:4E84:55F:DDE0000:0:0:0:</channel><!-- Cstar -->
+
+<!-- 5.0W --><channel id="CStar.fr">1:0:19:205:2:20FA:DDE0000:0:0:0:</channel><!-- Cstar HD -->
+
+<!-- 5.0W --><channel id="DisneyChannel.fr">1:0:1:394:5208:55E:DDE0000:0:0:0:</channel><!-- DISNEY CHANNEL -->
+
+<!-- 5.0W --><channel id="Eentertainment.fr">1:0:1:389:5208:55E:DDE0000:0:0:0:</channel><!-- E! -->
+
+<!-- 5.0W --><channel id="Eentertainment.fr">1:0:19:580:5398:55F:FFCE0000:0:0:0:</channel><!-- E! -->
+
+<!-- 5.0W --><channel id="Eentertainment.fr">1:0:19:725:2904:55F:DDE0000:0:0:0:</channel><!-- E! -->
+
+<!-- 5.0W --><channel id="Eentertainment.fr">1:0:19:580:5398:55F:DDE0000:0:0:0:</channel><!-- E! France -->
+
+<!-- 5.0W --><channel id="EquidiaLive.fr">1:0:16:DC:4EE8:55F:DDE0000:0:0:0:</channel><!-- EQUIDIA -->
+
+<!-- 5.0W --><channel id="LEquipe.fr">1:0:1:25B:5078:55F:DDE0000:0:0:0:</channel><!-- L EQUIPE 21 -->
+
+<!-- 5.0W --><channel id="LEquipe.fr">1:0:19:A02:A:20FA:DDE0000:0:0:0:</channel><!-- L EQUIPE 21 -->
+
+<!-- 5.0W --><channel id="LEquipe.fr">1:0:19:BB9:4E84:55F:DDE0000:0:0:0:</channel><!-- L'Equipe 21 -->
+
+<!-- 5.0W --><channel id="ETB1.fr">1:0:1:B88:51A4:55F:DDE0000:0:0:0:</channel><!-- ETB 1 -->
+
+<!-- 5.0W --><channel id="ETB1.fr">1:0:16:1F6:5014:55F:DDE0000:0:0:0:</channel><!-- ETB 1 -->
+
+<!-- 5.0W --><channel id="Eurosport.fr">1:0:1:395:5208:55E:DDE0000:0:0:0:</channel><!-- EUROSPORT -->
+
+<!-- 5.0W --><channel id="France2.fr">1:0:1:101:1:20FA:DDE0000:0:0:0:</channel><!-- France 2 -->
+
+<!-- 5.0W --><channel id="France2.fr">1:0:1:101:1:20FA:FFCE0000:0:0:0:</channel><!-- France 2 -->
+
+<!-- 5.0W --><channel id="France2.fr">1:0:1:192:4FB0:55F:DDD0000:0:0:0:</channel><!-- FRANCE 2 HD -->
+
+<!-- 5.0W --><channel id="France2.fr">1:0:1:192:4FB0:55F:DDE0000:0:0:0:</channel><!-- France 2 HD -->
+
+<!-- 5.0W --><channel id="France2.fr">1:0:19:12D:4F4C:55F:DDE0000:0:0:0:</channel><!-- FRANCE 2 HD -->
+
+<!-- 5.0W --><channel id="France3.fr">1:0:1:110:1:20FA:DDE0000:0:0:0:</channel><!-- France 3 HD -->
+
+<!-- 5.0W --><channel id="France3.fr">1:0:19:12E:4F4C:55F:DDE0000:0:0:0:</channel><!-- France 3 HD -->
+
+<!-- 5.0W --><channel id="France3.Alpes.fr">1:0:1:1007:5078:55F:DDE0000:0:0:0:</channel><!-- France 3 Grenoble -->
+
+<!-- 5.0W --><channel id="France3.Alsace.fr">1:0:1:1022:5014:55F:DDE0000:0:0:0:</channel><!-- France 3 Strasbourg -->
+
+<!-- 5.0W --><channel id="France3.Aquitaine.fr">1:0:1:1003:5078:55F:DDE0000:0:0:0:</channel><!-- France 3 Bordeaux -->
+
+<!-- 5.0W --><channel id="France3.NouvelleAquitaine.fr">1:0:1:1025:4FB0:55F:DDE0000:0:0:0:</channel><!-- France 3 Nouvelle Aquitaine -->
+
+<!-- 5.0W --><channel id="France3.NouvelleAquitaine.fr">1:0:1:1025:5140:55F:DDE0000:0:0:0:</channel><!-- France 3 Nouvelle Aquitaine -->
+
+<!-- 5.0W --><channel id="France3.Auvergne.fr">1:0:1:1005:5078:55F:DDE0000:0:0:0:</channel><!-- France 3 Clermont-Fer -->
+
+<!-- 5.0W --><channel id="France3.BasseNormandie.fr">1:0:1:1021:5140:55F:DDE0000:0:0:0:</channel><!-- France 3 Rouen -->
+
+<!-- 5.0W --><channel id="France3.Bourgogne.fr">1:0:1:1006:5140:55F:DDE0000:0:0:0:</channel><!-- France 3 Dijon -->
+
+<!-- 5.0W --><channel id="France3.Bretagne.fr">1:0:1:1020:5078:55F:DDE0000:0:0:0:</channel><!-- France 3 Rennes -->
+
+<!-- 5.0W --><channel id="France3.CentreValDeLoire.fr">1:0:1:1016:5140:55F:DDE0000:0:0:0:</channel><!-- France 3 Orleans -->
+
+<!-- 5.0W --><channel id="France3.ChampagneArdennes.fr">1:0:1:1019:5014:55F:DDE0000:0:0:0:</channel><!-- France 3 Reims -->
+
+<!-- 5.0W --><channel id="France3Corse.fr">1:0:1:1024:5014:55F:DDD0000:0:0:0:</channel><!-- France 3 Via Stella -->
+
+<!-- 5.0W --><channel id="France3Corse.fr">1:0:1:1024:5014:55F:DDE0000:0:0:0:</channel><!-- France 3 Via Stella -->
+
+<!-- 5.0W --><channel id="France3.CoteDAzur.fr">1:0:1:1015:5014:55F:DDE0000:0:0:0:</channel><!-- France 3 Nice -->
+
+<!-- 5.0W --><channel id="France3.FrancheComte.fr">1:0:1:1002:5140:55F:DDE0000:0:0:0:</channel><!-- France 3 Besancon -->
+
+<!-- 5.0W --><channel id="France3.HauteNormandie.fr">1:0:1:1004:5140:55F:DDE0000:0:0:0:</channel><!-- France 3 Caen -->
+
+<!-- 5.0W --><channel id="France3.LanguedocRoussillon.fr">1:0:1:1012:5078:55F:DDE0000:0:0:0:</channel><!-- France 3 Montpellier -->
+
+<!-- 5.0W --><channel id="France3.Limousin.fr">1:0:1:1009:5078:55F:DDE0000:0:0:0:</channel><!-- France 3 Limoges -->
+
+<!-- 5.0W --><channel id="France3.Lorraine.fr">1:0:1:1013:5014:55F:DDE0000:0:0:0:</channel><!-- France 3 Nancy -->
+
+<!-- 5.0W --><channel id="France3.MidiPyrenees.fr">1:0:1:1023:5014:55F:DDE0000:0:0:0:</channel><!-- France 3 Toulouse -->
+
+<!-- 5.0W --><channel id="France3.NordPasDeCalais.fr">1:0:1:1008:5014:55F:DDE0000:0:0:0:</channel><!-- France 3 Lille -->
+
+<!-- 5.0W --><channel id="France3.ParisIleDeFrance.fr">1:0:1:1017:5140:55F:DDE0000:0:0:0:</channel><!-- France 3 Paris -->
+
+<!-- 5.0W --><channel id="France3.ParisIleDeFrance.fr">1:0:1:3:5140:55F:DDE0000:0:0:0:</channel><!-- France 3 Paris -->
+
+<!-- 5.0W --><channel id="France3.PaysDeLaLoire.fr">1:0:1:1014:5078:55F:DDE0000:0:0:0:</channel><!-- France 3 Nantes -->
+
+<!-- 5.0W --><channel id="France3.Picardie.fr">1:0:1:1001:5014:55F:DDE0000:0:0:0:</channel><!-- France 3 Amiens -->
+
+<!-- 5.0W --><channel id="France3.PoitouCharentes.fr">1:0:1:1018:5014:55F:DDE0000:0:0:0:</channel><!-- France 3 Poitiers -->
+
+<!-- 5.0W --><channel id="France3.ProvenceAlpes.fr">1:0:1:1011:5078:55F:DDE0000:0:0:0:</channel><!-- France 3 Marseille -->
+
+<!-- 5.0W --><channel id="France3.RhoneAlpes.fr">1:0:1:1010:5078:55F:DDE0000:0:0:0:</channel><!-- France 3 Lyon -->
+
+<!-- 5.0W --><channel id="France4.fr">1:0:1:104:1:20FA:DDD0000:0:0:0:</channel><!-- France 4 -->
+
+<!-- 5.0W --><channel id="France4.fr">1:0:1:104:1:20FA:DDE0000:0:0:0:</channel><!-- France 4 -->
+
+<!-- 5.0W --><channel id="France4.fr">1:0:1:207:3:20FA:DDE0000:0:0:0:</channel><!-- France 4 -->
+
+<!-- 5.0W --><channel id="France4.fr">1:0:1:1A2:4FB0:55F:DDE0000:0:0:0:</channel><!-- FRANCE 4 HD -->
+
+<!-- 5.0W --><channel id="France4.fr">1:0:19:12F:4F4C:55F:DDE0000:0:0:0:</channel><!-- FRANCE 4 HD -->
+
+<!-- 5.0W --><channel id="France5.fr">1:0:19:1A3:4FB0:55F:DDE0000:0:0:0:</channel><!-- FRANCE 5 HD -->
+
+<!-- 5.0W --><channel id="France5.fr">1:0:19:415:4:20FA:DDE0000:0:0:0:</channel><!-- FRANCE 5 HD -->
+
+<!-- 5.0W --><channel id="Franceinfo.fr">1:0:1:106:1:20FA:DDE0000:0:0:0:</channel><!-- Franceinfo -->
+
+<!-- 5.0W --><channel id="Franceinfo.fr">1:0:16:131:4F4C:55F:DDE0000:0:0:0:</channel><!-- Franceinfo -->
+
+<!-- 5.0W --><channel id="Golf.fr">1:0:16:CD:4EE8:55F:DDE0000:0:0:0:</channel><!-- Golf -->
+
+<!-- 5.0W --><channel id="Gong.fr">1:0:1:B80:51A4:55F:DDE0000:0:0:0:</channel><!-- Gong BASE -->
+
+<!-- 5.0W --><channel id="GrandLilleTV.fr">1:0:1:45B:526C:55F:DDE0000:0:0:0:</channel><!-- Grand Lille TV -->
+
+<!-- 5.0W --><channel id="GrandLilleTV.fr">1:0:16:BA2:51A4:55F:DDE0000:0:0:0:</channel><!-- Grand Lille TV -->
+
+<!-- 5.0W --><channel id="Gulli.fr">1:0:19:206:2:20FA:DDE0000:0:0:0:</channel><!-- GULLI HD -->
+
+<!-- 5.0W --><channel id="Gulli.fr">1:0:19:BC7:4E84:55F:DDE0000:0:0:0:</channel><!-- Gulli HD -->
+
+<!-- 5.0W --><channel id="i24News.fr">1:0:19:57D:5398:55F:DDE0000:0:0:0:</channel><!-- I24 News -->
+
+<!-- 5.0W --><channel id="i24News.fr">1:0:19:591:2904:55F:DDE0000:0:0:0:</channel><!-- I24 News -->
+
+<!-- 5.0W --><channel id="Kto.fr">1:0:1:1027:5078:55F:DDE0000:0:0:0:</channel><!-- KTO -->
+
+<!-- 5.0W --><channel id="Kto.fr">1:0:16:1AB:4FB0:55F:DDE0000:0:0:0:</channel><!-- KTO -->
+
+<!-- 5.0W --><channel id="Kto.fr">1:0:16:B85:51A4:55F:DDE0000:0:0:0:</channel><!-- KTO -->
+
+<!-- 5.0W --><channel id="LaChaîneThéatres.fr">1:0:1:25A:5078:55F:DDE0000:0:0:0:</channel><!-- La Chaîne Théatres -->
+
+<!-- 5.0W --><channel id="LCI.fr">1:0:16:308:3:20FA:DDE0000:0:0:0:</channel><!-- LCI -->
+
+<!-- 5.0W --><channel id="LCI.fr">1:0:19:133:4F4C:55F:DDE0000:0:0:0:</channel><!-- LCI -->
+
+<!-- 5.0W --><channel id="LCI.fr">1:0:1:391:5208:55E:DDE0000:0:0:0:</channel><!-- LCI HD -->
+
+<!-- 5.0W --><channel id="LCP.fr">1:0:19:1A9:4FB0:55F:DDE0000:0:0:0:</channel><!-- LCP HD -->
+
+<!-- 5.0W --><channel id="LCP.fr">1:0:19:609:6:20FA:DDE0000:0:0:0:</channel><!-- LCP HD -->
+
+<!-- 5.0W --><channel id="M6.fr">1:0:1:395:4E84:55E:DDE0000:0:0:0:</channel><!-- M6 -->
+
+<!-- 5.0W --><channel id="M6.fr">1:0:19:193:4FB0:55F:DDE0000:0:0:0:</channel><!-- M6 HD -->
+
+<!-- 5.0W --><channel id="M6.fr">1:0:19:401:4:20FA:DDE0000:0:0:0:</channel><!-- M6 HD -->
+
+<!-- 5.0W --><channel id="Mangas.fr">1:0:16:CA:4EE8:55F:DDE0000:0:0:0:</channel><!-- MANGAS -->
+
+<!-- 5.0W --><channel id="MCM.fr">1:0:1:38E:5208:55E:DDE0000:0:0:0:</channel><!-- MCM -->
+
+<!-- 5.0W --><channel id="MontBlancLiveTV.fr">1:0:16:B89:51A4:55F:DDE0000:0:0:0:</channel><!-- Mont Blanc Live TV -->
+
+<!-- 5.0W --><channel id="NRJ12.fr">1:0:19:1A1:4FB0:55F:DDE0000:0:0:0:</channel><!-- NRJ12 HD -->
+
+<!-- 5.0W --><channel id="NRJ12.fr">1:0:19:602:6:20FA:DDE0000:0:0:0:</channel><!-- NRJ12 HD -->
+
+<!-- 5.0W --><channel id="NRJParis.fr">1:0:1:1FA:5014:55F:DDE0000:0:0:0:</channel><!-- NRJ Paris -->
+
+<!-- 5.0W --><channel id="OrangeCinechoc.fr">1:0:1:38B:5208:55E:DDE0000:0:0:0:</channel><!-- OCS Choc HD -->
+
+<!-- 5.0W --><channel id="OrangeCinechoc.fr">1:0:1:DF:4EE8:55F:DDE0000:0:0:0:</channel><!-- OCS Choc HD -->
+
+<!-- 5.0W --><channel id="OrangeCineGeants.fr">1:0:1:38D:5208:55E:DDE0000:0:0:0:</channel><!-- OCS GEANTS HD -->
+
+<!-- 5.0W --><channel id="OrangeCineGeants.fr">1:0:1:E0:4EE8:55F:DDE0000:0:0:0:</channel><!-- OCS GEANTS HD -->
+
+<!-- 5.0W --><channel id="OrangeCineHappy.fr">1:0:1:38A:5208:55E:DDE0000:0:0:0:</channel><!-- Orange ciné City -->
+
+<!-- 5.0W --><channel id="OrangeCineHappy.fr">1:0:1:396:5208:55E:DDE0000:0:0:0:</channel><!-- Orange ciné City -->
+
+<!-- 5.0W --><channel id="OrangeCineHappy.fr">1:0:1:DE:4EE8:55F:DDE0000:0:0:0:</channel><!-- Orange ciné City -->
+
+<!-- 5.0W --><channel id="OrangeCinemax.fr">1:0:1:3A2:5208:55E:DDE0000:0:0:0:</channel><!-- OCS MAX HD -->
+
+<!-- 5.0W --><channel id="OrangeCinemax.fr">1:0:1:E1:4EE8:55F:DDE0000:0:0:0:</channel><!-- OCS MAX HD -->
+
+<!-- 5.0W --><channel id="ParisPremiere.fr">1:0:1:392:5208:55E:DDE0000:0:0:0:</channel><!-- PARIS PREMIERE -->
+
+<!-- 5.0W --><channel id="ParisPremiere.fr">1:0:16:309:3:20FA:DDE0000:0:0:0:</channel><!-- PARIS PREMIERE HD -->
+
+<!-- 5.0W --><channel id="PIWI.fr">1:0:1:388:5208:55E:DDE0000:0:0:0:</channel><!-- PIWI+ -->
+
+<!-- 5.0W --><channel id="PLANETE.fr">1:0:1:304:3:20FA:DDE0000:0:0:0:</channel><!-- PLANETE -->
+
+<!-- 5.0W --><channel id="QVC.fr">1:0:16:A35:5078:55F:DDE0000:0:0:0:</channel><!-- QVC -->
+
+<!-- 5.0W --><channel id="RMCDecouverte.fr">1:0:1:258:5078:55F:DDE0000:0:0:0:</channel><!-- RMC decouverte -->
+
+<!-- 5.0W --><channel id="RMCDecouverte.fr">1:0:19:A04:A:20FA:DDE0000:0:0:0:</channel><!-- RMC Decouverte -->
+
+<!-- 5.0W --><channel id="RMCDecouverte.fr">1:0:19:BBC:4E84:55F:DDE0000:0:0:0:</channel><!-- RMC Decouverte -->
+
+<!-- 5.0W --><channel id="RMCSport1.fr">1:0:19:514:5208:55F:DDE0000:0:0:0:</channel><!-- RMC Sport 1 -->
+
+<!-- 5.0W --><channel id="RMCSport1.fr">1:0:19:709:2904:55F:DDE0000:0:0:0:</channel><!-- RMC Sport 1 -->
+
+<!-- 5.0W --><channel id="RMCSport1.fr">1:0:19:71C:2904:55F:DDE0000:0:0:0:</channel><!-- RMC Sport 1 -->
+
+<!-- 5.0W --><channel id="RMCSport2.fr">1:0:19:515:5208:55F:DDE0000:0:0:0:</channel><!-- RMC Sport 2 -->
+
+<!-- 5.0W --><channel id="RMCSport2.fr">1:0:19:70A:2904:55F:DDE0000:0:0:0:</channel><!-- RMC Sport 2 -->
+
+<!-- 5.0W --><channel id="RMCSport2.fr">1:0:19:721:2904:55F:DDE0000:0:0:0:</channel><!-- RMC Sport 2 -->
+
+<!-- 5.0W --><channel id="RMCSport3.fr">1:0:19:51C:5208:55F:DDE0000:0:0:0:</channel><!-- RMC Sport 3 -->
+
+<!-- 5.0W --><channel id="RMCSport3.fr">1:0:19:578:5398:55F:DDE0000:0:0:0:</channel><!-- RMC Sport 3 -->
+
+<!-- 5.0W --><channel id="RMCSport3.fr">1:0:19:711:2904:55F:DDE0000:0:0:0:</channel><!-- RMC Sport 3 -->
+
+<!-- 5.0W --><channel id="RMCSport4.fr">1:0:19:71D:2904:55F:DDE0000:0:0:0:</channel><!-- RMC Sport 4 -->
+
+<!-- 5.0W --><channel id="RMCSport4.fr">1:0:19:579:5398:55F:DDE0000:0:0:0:</channel><!-- RMC Sport 5 -->
+
+<!-- 5.0W --><channel id="RMCSportUHD.fr">1:0:1F:320:5140:55F:DDE0000:0:0:0:</channel><!-- RMC Sport 4k -->
+
+<!-- 5.0W --><channel id="RMCStory.fr">1:0:1:A32:5078:55F:DDE0000:0:0:0:</channel><!-- RMC Story -->
+
+<!-- 5.0W --><channel id="RMCStory.fr">1:0:19:A05:A:20FA:DDE0000:0:0:0:</channel><!-- RMC Story -->
+
+<!-- 5.0W --><channel id="RMCStory.fr">1:0:19:BBB:4E84:55F:DDE0000:0:0:0:</channel><!-- RMC Story -->
+
+<!-- 5.0W --><channel id="RTL9.fr">1:0:19:C9:4EE8:55F:DDE0000:0:0:0:</channel><!-- RTL9 -->
+
+<!-- 5.0W --><channel id="ScienceVie.fr">1:0:19:D1:4EE8:55F:DDE0000:0:0:0:</channel><!-- Science et Vie -->
+
+<!-- 5.0W --><channel id="TCM.fr">1:0:1:393:5208:55E:DDE0000:0:0:0:</channel><!-- TCM CINEMA -->
+
+<!-- 5.0W --><channel id="TeleMelody.fr">1:0:16:BA1:51A4:55F:DDE0000:0:0:0:</channel><!-- Melody -->
+
+<!-- 5.0W --><channel id="TeleMelody.fr">1:0:1:DD:4EE8:55F:DDE0000:0:0:0:</channel><!-- TELE MELODY -->
+
+<!-- 5.0W --><channel id="TeleTOON.fr">1:0:1:390:5208:55E:DDE0000:0:0:0:</channel><!-- TELETOON+ -->
+
+<!-- 5.0W --><channel id="Teva.fr">1:0:16:DB:4EE8:55F:DDE0000:0:0:0:</channel><!-- TEVA -->
+
+<!-- 5.0W --><channel id="TF1.fr">1:0:19:191:0:0:DDE2B58:0:0:0:</channel><!-- TF 1 -->
+
+<!-- 5.0W --><channel id="TF1.fr">1:0:19:191:4FB0:55F:DDE0000:0:0:0:</channel><!-- TF 1 HD -->
+
+<!-- 5.0W --><channel id="TF1.fr">1:0:19:601:6:20FA:DDE0000:0:0:0:</channel><!-- TF 1 HD -->
+
+<!-- 5.0W --><channel id="TF1SeriesFilms.fr">1:0:1:BB8:4E84:55F:DDE0000:0:0:0:</channel><!-- TF1 Series Films -->
+
+<!-- 5.0W --><channel id="TF1SeriesFilms.fr">1:0:19:A01:A:20FA:DDE0000:0:0:0:</channel><!-- TF1 Series Films -->
+
+<!-- 5.0W --><channel id="TF1SeriesFilms.fr">1:0:19:BB8:4E84:55F:DDE0000:0:0:0:</channel><!-- TF1 Series Films -->
+
+<!-- 5.0W --><channel id="TFX.fr">1:0:19:1A8:4FB0:55F:DDE0000:0:0:0:</channel><!-- TFX -->
+
+<!-- 5.0W --><channel id="TFX.fr">1:0:19:608:6:20FA:DDE0000:0:0:0:</channel><!-- TFX -->
+
+<!-- 5.0W --><channel id="TMC.fr">1:0:19:1A7:4FB0:55F:DDE0000:0:0:0:</channel><!-- TMC HD -->
+
+<!-- 5.0W --><channel id="TMC.fr">1:0:19:606:6:20FA:DDE0000:0:0:0:</channel><!-- TMC HD -->
+
+<!-- 5.0W --><channel id="TouteHistoire.fr">1:0:16:D2:4EE8:55F:DDE0000:0:0:0:</channel><!-- TOUTE L'HISTOIRE -->
+
+<!-- 5.0W --><channel id="TPSStar.fr">1:0:1:306:3:20FA:DDE0000:0:0:0:</channel><!-- TPS STAR -->
+
+<!-- 5.0W --><channel id="Trek.fr">1:0:19:CF:4EE8:55F:DDE0000:0:0:0:</channel><!-- TREK -->
+
+<!-- 5.0W --><channel id="TV8MontBlanc.fr">1:0:1:45A:526C:55F:DDE0000:0:0:0:</channel><!-- TV8 Mont Blanc -->
+
+<!-- 5.0W --><channel id="TV8MontBlanc.fr">1:0:19:B89:51A4:55F:DDE0000:0:0:0:</channel><!-- TV8 Mont Blanc -->
+
+<!-- 5.0W --><channel id="TVBreizh.fr">1:0:1:385:5208:55E:DDE0000:0:0:0:</channel><!-- TV BREIZH -->
+
+<!-- 5.0W --><channel id="TVBreizh.fr">1:0:16:D6:4EE8:55F:DDE0000:0:0:0:</channel><!-- TV Breizh -->
+
+<!-- 5.0W --><channel id="UshuaiaTV.fr">1:0:1:387:5208:55E:DDE0000:0:0:0:</channel><!-- USHUAIA TV -->
+
+<!-- 5.0W --><channel id="UshuaiaTV.fr">1:0:16:CE:4EE8:55F:DDE0000:0:0:0:</channel><!-- USHUAIA TV -->
+
+<!-- 5.0W --><channel id="VosgesTV.fr">1:0:1:1AA:4FB0:55F:DDE0000:0:0:0:</channel><!-- Vosges TV -->
+
+<!-- 5.0W --><channel id="VosgesTV.fr">1:0:1:459:526C:55F:DDE0000:0:0:0:</channel><!-- Vosges TV -->
+
+<!-- 5.0W --><channel id="VosgesTV.fr">1:0:16:B83:51A4:55F:DDE0000:0:0:0:</channel><!-- Vosges TV -->
+
+<!-- 5.0W --><channel id="W9.fr">1:0:1:396:4E84:55E:DDE0000:0:0:0:</channel><!-- W9 -->
+
+<!-- 5.0W --><channel id="W9.fr">1:0:19:1A5:4FB0:55F:DDE0000:0:0:0:</channel><!-- W9 HD -->
+
+<!-- 5.0W --><channel id="W9.fr">1:0:19:402:4:20FA:DDE0000:0:0:0:</channel><!-- W9 HD -->
+
+<!-- 9.0E --><channel id="6Ter.fr">1:0:19:CC:19C8:9E:5A0000:0:0:0:</channel><!-- 6ter Suisse HD -->
+
+<!-- 9.0E --><channel id="M6.fr">1:0:19:CA:19C8:9E:5A0000:0:0:0:</channel><!-- M6 HD SUISSE 9E -->
+
+<!-- 9.0E --><channel id="TF1.fr">1:0:1:8:19C8:9E:5A0000:0:0:0:</channel><!-- TF1 Suisse HD -->
+
+<!-- 9.0E --><channel id="TFX.fr">1:0:1:7:19C8:9E:5A0000:0:0:0:</channel><!-- TFX -->
+
+<!-- 9.0E --><channel id="TMC.fr">1:0:1:6:19C8:9E:5A0000:0:0:0:</channel><!-- TMC Suisse HD -->
+
+<!-- 9.0E --><channel id="W9.fr">1:0:19:CD:19C8:9E:5A0000:0:0:0:</channel><!-- W9 Suisse HD -->
+
+<!-- 0.8W --><channel id="TV5.Europe.fr">1:0:1:412:519:2:E08B163:0:0:0:</channel><!-- TV5 Monde Europe -->
+
+<!-- 0.8W --><channel id="TV5.Europe.fr">1:0:1:646:6:64:E080000:0:0:0:</channel><!-- TV5 Monde Europe -->
+
+<!-- 0.8W --><channel id="TV5.Europe.fr">1:0:1:79E8:2C8:600:E080000:0:0:0:</channel><!-- TV5 Monde Europe -->
+
+<!-- 0.8W --><channel id="TV5.FBS.fr">1:0:1:413:519:2:E080000:0:0:0:</channel><!-- TV5 Monde FBS -->
+
+<!-- 0.8W --><channel id="TV5.FBS.fr">1:0:1:413:519:2:E08B163:0:0:0:</channel><!-- TV5MondeFBS -->
+
+<!-- 19.2E --><channel id="TV5.Europe.fr">1:0:1:1B03:3FE:1:C00000:0:0:0:</channel><!-- TV5 Monde Europe -->
+
+<!-- 19.2E --><channel id="TV5.FBS.fr">1:0:1:26B6:43E:1:C00000:0:0:0:</channel><!-- TV5MondeFBS -->
+
+<!-- 19.2E --><channel id="TV5.FBS.fr">1:0:19:22C6:434:1:C00000:0:0:0:</channel><!-- TV5MondeFBS -->
+
+<!-- 28.2E --><channel id="TV5.Europe.fr">1:0:1:CD5F:902:2:11A0000:0:0:0:</channel><!-- TV5 Monde Europe -->
+
+<!-- 30.0W --><channel id="TV5.Europe.fr">1:0:1:139D:30:36:CE40000:0:0:0:</channel><!-- TV5 Monde Europe -->
+
+<!-- 30.0W --><channel id="TV5.Europe.fr">1:0:1:204:30:36:CE40000:0:0:0:</channel><!-- TV5 Monde Europe -->
+
+<!-- 30.0W --><channel id="TV5.Europe.fr">1:0:1:2FD:27:36:CE40000:0:0:0:</channel><!-- TV5 Monde Europe -->
+
+<!-- 30.0W --><channel id="TV5.Europe.fr">1:0:1:62:D:28:CE40000:0:0:0:</channel><!-- TV5 Monde Europe -->
+
+<!-- 39.0E --><channel id="TV5.Europe.fr">1:0:1:5:1:212C:1860000:0:0:0:</channel><!-- TV5 Monde Europe -->
+
+<!-- 39.0E --><channel id="TV5.Europe.fr">1:0:1:E7:11:1C:1860000:0:0:0:</channel><!-- TV5 Monde Europe -->
+
+<!-- 5.0W --><channel id="TV5.FBS.fr">1:0:1:DA:4EE8:55F:DDE0000:0:0:0:</channel><!-- TV5 MONDE -->
+
+<!-- 5.0W --><channel id="TV5.FBS.fr">1:0:1:45D:526C:55F:DDE0000:0:0:0:</channel><!-- TV5 Monde FBS -->
+
+<!-- 5.0W --><channel id="TV5.FBS.fr">1:0:19:259:5078:55F:DDE0000:0:0:0:</channel><!-- TV5 Monde FBS -->
+
+<!-- 9.0E --><channel id="TV5.Europe.fr">1:0:1:F2:14B4:9C:5A0000:0:0:0:</channel><!-- TV5 Monde Europe -->
+
+<!-- Misc --><channel id="TV5.Europe.fr">1:0:1:2076:146C:A7:13B0000:0:0:0:</channel><!-- TV5 Monde Europe -->
+
+<!-- Misc --><channel id="TV5MONDEMaghreb-Orient.fr">1:0:1:12D:1FE:2BE:1040000:0:0:0:</channel><!-- TV5 Monde Maghreb-Orient -->
+
+<!-- Misc --><channel id="TV5MONDEMaghreb-Orient.fr">1:0:1:133:1FE:2BE:1040000:0:0:0:</channel><!-- TV5 Monde Maghreb-Orient -->
+
+<!-- 0.8W --><channel id="France24.fr">1:0:1:207:1:46:E080000:0:0:0:</channel><!-- France 24 -->
+
+<!-- 1.9E --><channel id="France24.fr">1:0:1:68:E:3:130000:0:0:0:</channel><!-- France 24 English HD -->
+
+<!-- 1.9E --><channel id="France24fr.fr">1:0:1:6F:E:3:130000:0:0:0:</channel><!-- France 24 -->
+
+<!-- 1.9E --><channel id="TV5.Europe.fr">1:0:1:80:E:3:130000:0:0:0:</channel><!-- TV5 Monde Europe -->
+
+<!-- 13.0E --><channel id="France24.fr">1:0:1:328:3BC4:13E:820000:0:0:0:</channel><!-- France 24 (English) -->
+
+<!-- 13.0E --><channel id="France24fr.fr">1:0:1:327:3BC4:13E:820000:0:0:0:</channel><!-- France 24 (En Francai -->
+
+<!-- 13.0E --><channel id="i24News.fr">1:0:1:51D:3D54:13E:820000:0:0:0:</channel><!-- i24News HD French -->
+
+<!-- 19.2E --><channel id="France24.fr">1:0:1:1AFA:3FE:1:C00000:0:0:0:</channel><!-- France 24 (in English -->
+
+<!-- 19.2E --><channel id="France24fr.fr">1:0:1:1AF9:3FE:1:C00000:0:0:0:</channel><!-- France 24 -->
+
+<!-- 19.2E --><channel id="i24News.fr">1:0:1:7A4B:410:1:C00000:0:0:0:</channel><!-- i24News -->
+
+<!-- 19.2E --><channel id="RussiaToday.fr">1:0:1:18EF:3F4:1:C00000:0:0:0:</channel><!-- RT France -->
+
+<!-- 26.0E --><channel id="France24.fr">1:0:1:20:1FD:2BE:1040000:0:0:0:</channel><!-- France 24 (in English -->
+
+<!-- 26.0E --><channel id="France24.fr">1:0:19:130:1FE:2BE:1040000:0:0:0:</channel><!-- France 24 (in English -->
+
+<!-- 26.0E --><channel id="France24fr.fr">1:0:19:12F:1FE:2BE:1040000:0:0:0:</channel><!-- France 24 -->
+
+<!-- 26.0E --><channel id="France24fr.fr">1:0:1:1F:1FD:2BE:1040000:0:0:0:</channel><!-- France 24 (En Francai -->
+
+<!-- 28.2E --><channel id="France24.fr">1:0:19:D80E:838:2:11A0000:0:0:0:</channel><!-- France 24 (English) -->
+
+<!-- 30.0W --><channel id="France24.fr">1:0:1:144:67:53:CE40000:0:0:0:</channel><!-- FRANCE 24 -->
+
+<!-- 39.0E --><channel id="France24.fr">1:0:19:474:B11:39E:1860000:0:0:0:</channel> <!-- France 24 (in English) -->
+
+<!-- 39.0E --><channel id="France24fr.fr">1:0:19:F3:B2:39E:1860000:0:0:0:</channel> <!-- France 24 (en Français) -->
+
+<!-- 39.0E --><channel id="TV5.Europe.fr">1:0:19:F5:B2:39E:1860000:0:0:0:</channel> <!-- TV5 Monde Europe -->
+
+<!-- 45.0E --><channel id="France24fr.fr">1:0:19:144:4:D5:1C20000:0:0:0:</channel> <!-- France 24 (en Français) -->
+
+<!-- 45.0E --><channel id="TV5.Europe.fr">1:0:19:13AA:6:D5:1C20000:0:0:0:</channel> <!-- TV5 Monde Europe -->
+
+<!-- 5.0W --><channel id="RussiaToday.fr">1:0:19:325:5140:55F:DDE0000:0:0:0:</channel><!-- RT France -->
+
+<!-- 5.0W --><channel id="RussiaToday.fr">1:0:19:728:2904:55F:DDE0000:0:0:0:</channel><!-- RT France -->
+
+<!-- 30.0W --><channel id="France24.fr">1:0:19:1397:30:36:CE40000:0:0:0:</channel><!-- France 24 -->
+
+<!-- 30.0W --><channel id="France24.fr">1:0:19:F6:30:36:CE40000:0:0:0:</channel><!-- France 24 -->
+<!-- 0.8W --><channel id="DiscoveryScience.be">1:0:1:32B:42:46:E080000:0:0:0:</channel><!-- Discovery Science -->
+
+<!-- 0.8W --><channel id="DiscoveryScience.be">1:0:1:C80:2:5E:E080000:0:0:0:</channel><!-- Discovery Science -->
+
+<!-- 0.8W --><channel id="DiscoveryScience.be">1:0:1:C80:2:5E:E08B00F:0:0:0:</channel><!-- Discovery Science HD -->
+
+<!-- 0.8W --><channel id="Mezzo.be">1:0:1:3F0:1:1:E08318E:0:0:0:</channel><!-- Mezzo HD -->
+
+<!-- 13.0E --><channel id="Eurosport.be">1:0:19:3309:190:13E:820000:0:0:0:</channel><!-- Eurosport HD -->
+
+<!-- 13.0E --><channel id="LoveNature.be">1:0:1:44F:238C:13E:820000:0:0:0:</channel><!-- Love Nature -->
+
+<!-- 13.0E --><channel id="Mezzo.be">1:0:1:29E5:1C20:13E:820000:0:0:0:</channel><!-- Mezzo HD -->
+
+<!-- 13.0E --><channel id="Mezzo.be">1:0:1:29E5:3CF0:13E:820000:0:0:0:</channel><!-- Mezzo HD -->
+
+<!-- 19.2E --><channel id="BVN.be">1:0:16:1645:42C:1:C00000:0:0:0:</channel><!-- BVN -->
+
+<!-- 19.2E --><channel id="ElevenSports1N.be">1:0:16:101E:451:35:C00000:0:0:0:</channel><!-- Elevensports1 -->
+
+<!-- 19.2E --><channel id="ElevenSports1N.be">1:0:16:1032:451:35:C00000:0:0:0:</channel><!-- Elevensports1 -->
+
+<!-- 19.2E --><channel id="ElevenSports2N.be">1:0:16:101F:451:35:C00000:0:0:0:</channel><!-- Elevensports2 -->
+
+<!-- 19.2E --><channel id="ElevenSports2N.be">1:0:16:1033:451:35:C00000:0:0:0:</channel><!-- Elevensports2 -->
+
+<!-- 19.2E --><channel id="Mezzo.be">1:0:1:7699:41E:1:C00000:0:0:0:</channel><!-- Mezzo HD -->
+
+<!-- 19.2E --><channel id="Mezzo.be">1:0:19:1F4A:42E:1:C00000:0:0:0:</channel><!-- Mezzo HD -->
+
+<!-- 23.5E --><channel id="Canvas.be">1:0:19:5226:C99:3:EB0000:0:0:0:</channel><!-- Canvas HD -->
+
+<!-- 23.5E --><channel id="Eclips.be">1:0:16:51DA:C96:3:EB0000:0:0:0:</channel><!-- Eclips -->
+
+<!-- 23.5E --><channel id="een.be">1:0:19:5221:C99:3:EB0000:0:0:0:</channel><!-- een HD -->
+
+<!-- 23.5E --><channel id="ElevenProLeague1NL.be">1:0:19:52EC:C96:3:EB0000:0:0:0:</channel><!-- Eleven Pro League 1 NL -->
+
+<!-- 23.5E --><channel id="HistoryHD.be">1:0:19:36E6:C8C:3:EB0000:0:0:0:</channel><!-- History -->
+
+<!-- 23.5E --><channel id="Ketnet.be">1:0:16:5278:C96:3:EB0000:0:0:0:</channel><!-- Ketnet -->
+
+<!-- 23.5E --><channel id="LoveNature.be">1:0:19:31A:C94:3:EB0000:0:0:0:</channel><!-- Love Nature -->
+
+<!-- 23.5E --><channel id="LoveNature.be">1:0:19:31B:C94:3:EB0000:0:0:0:</channel><!-- Love Nature -->
+
+<!-- 23.5E --><channel id="MENT.be">1:0:16:51D5:C96:3:EB0000:0:0:0:</channel><!-- MENT -->
+
+<!-- 23.5E --><channel id="Mezzo.be">1:0:1:1816:C82:3:EB0000:0:0:0:</channel><!-- Mezzo HD -->
+
+<!-- 23.5E --><channel id="NGCWild.be">1:0:1:2C5:C9A:3:EB0000:0:0:0:</channel><!-- NGC Wild Hd -->
+
+<!-- 23.5E --><channel id="NGCWild.be">1:0:1:2F9:C9A:3:EB0000:0:0:0:</channel><!-- NGC Wild HD -->
+
+<!-- 23.5E --><channel id="NGCWild.be">1:0:19:304:C94:3:EB0000:0:0:0:</channel><!-- NGC Wild HD -->
+
+<!-- 23.5E --><channel id="NGCWild.be">1:0:19:306:C94:3:EB0000:0:0:0:</channel><!-- NGC Wild HD -->
+
+<!-- 23.5E --><channel id="NickSpike.be">1:0:16:36F7:C8C:3:EB0000:0:0:0:</channel><!-- Spike VL -->
+
+<!-- 23.5E --><channel id="NickSpike.be"></channel><!-- Spike VL -->
+
+<!-- 23.5E --><channel id="Play4.be">1:0:19:1B91:C88:3:EB0000:0:0:0:</channel><!-- Vier HD -->
+
+<!-- 23.5E --><channel id="Play5.be">1:0:16:5286:C96:3:EB0000:0:0:0:</channel><!-- Vijf -->
+
+<!-- 23.5E --><channel id="Play6.be">1:0:16:1B95:C88:3:EB0000:0:0:0:</channel><!-- Zes -->
+
+<!-- 23.5E --><channel id="Play7.be">1:0:16:5287:C96:3:EB0000:0:0:0:</channel><!-- Play7 -->
+
+<!-- 23.5E --><channel id="Vtm.be">1:0:19:1B76:C88:3:EB0000:0:0:0:</channel><!-- VTM HD -->
+
+<!-- 23.5E --><channel id="VTM2.be">1:0:19:1B90:C88:3:EB0000:0:0:0:</channel><!-- Q2 -->
+
+<!-- 23.5E --><channel id="VTM3.be">1:0:16:5280:C96:3:EB0000:0:0:0:</channel><!-- Vitaya -->
+
+<!-- 23.5E --><channel id="VTM4.be">1:0:16:5282:C96:3:EB0000:0:0:0:</channel><!-- CAZ -->
+
+<!-- 23.5E --><channel id="VTMGold.be">1:0:16:5276:C96:3:EB0000:0:0:0:</channel><!-- CAZ2 -->
+
+<!-- 23.5E --><channel id="vtmKIDS.be">1:0:16:527C:C96:3:EB0000:0:0:0:</channel><!-- vtm Kids -->
+
+<!-- 30.0W --><channel id="Mezzo.be">1:0:1:138F:30:36:CE40000:0:0:0:</channel><!-- Mezzo HD -->
+
+<!-- 30.0W --><channel id="Mezzo.be">1:0:1:EE:30:36:CE40000:0:0:0:</channel><!-- Mezzo HD -->
+
+<!-- 39.0E --><channel id="Mezzo.be">1:0:1:50:6:1:18630EC:0:0:0:</channel><!-- Mezzo HD -->
+
+<!-- 4.8E --><channel id="DiscoveryScience.be">1:0:1:384:1:5E:300000:0:0:0:</channel><!-- Discovery Science -->
+
+<!-- 4.8E --><channel id="DiscoveryScience.be">1:0:1:384:1:5E:30B022:0:0:0:</channel><!-- Discovery Science HD -->
+
+<!-- 9.0E --><channel id="Canvas.be">1:0:19:1A0:C40E:9E:5A0000:0:0:0:</channel><!-- Canvas -->
+
+<!-- 9.0E --><channel id="een.be">1:0:19:19F:C40E:9E:5A0000:0:0:0:</channel><!-- één -->
+
+<!-- 9.0E --><channel id="HistoryHD.be">1:0:19:1A2:C40E:9E:5A0000:0:0:0:</channel><!-- History -->
+
+<!-- 9.0E --><channel id="Ketnet.be">1:0:19:1A1:C40E:9E:5A0000:0:0:0:</channel><!-- Ketnet -->
+
+<!-- 9.0E --><channel id="MENT.be">1:0:16:32B:C35A:9E:5A0000:0:0:0:</channel><!-- MENT TV -->
+
+<!-- 9.0E --><channel id="Play4.be">1:0:19:325:C35A:9E:5A0000:0:0:0:</channel><!-- Vier HD -->
+
+<!-- 9.0E --><channel id="Play5.be">1:0:19:326:C35A:9E:5A0000:0:0:0:</channel><!-- Vijf -->
+
+<!-- 9.0E --><channel id="Play6.be">1:0:19:327:C35A:9E:5A0000:0:0:0:</channel><!-- Zes -->
+
+<!-- 9.0E --><channel id="Vtm.be">1:0:19:324:C35A:9E:5A0000:0:0:0:</channel><!-- VTM HD -->
+
+<!-- 9.0E --><channel id="VTM2.be">1:0:16:32A:C35A:9E:5A0000:0:0:0:</channel><!-- Q2 -->
+
+<!-- 9.0E --><channel id="VTM3.be">1:0:16:328:C35A:9E:5A0000:0:0:0:</channel><!-- Vitaya -->
+
+<!-- 9.0E --><channel id="VTM4.be">1:0:16:329:C35A:9E:5A0000:0:0:0:</channel><!-- CAZ -->
+
+<!-- 9.0E --><channel id="VTMGold.be">1:0:16:32D:C35A:9E:5A0000:0:0:0:</channel><!-- Kadet -->
+
+<!-- 9.0E --><channel id="vtmKIDS.be">1:0:16:32C:C35A:9E:5A0000:0:0:0:</channel><!-- vtm Kids -->
+
+<!-- 13.0E --><channel id="ClubRTL.be">1:0:1:12D9:2E7C:13E:820000:0:0:0:</channel><!-- Club-RTL -->
+
+<!-- 13.0E --><channel id="LaTrois.be">1:0:1:12D5:2E7C:13E:820000:0:0:0:</channel><!-- La Trois -->
+
+<!-- 13.0E --><channel id="LaUne.be">1:0:1:12D7:2E7C:13E:820000:0:0:0:</channel><!-- La Une HD -->
+
+<!-- 13.0E --><channel id="PlugRTL.be">1:0:1:12DA:2E7C:13E:820000:0:0:0:</channel><!-- Plug-RTL -->
+
+<!-- 13.0E --><channel id="RTLTVI.be">1:0:1:12D6:2E7C:13E:820000:0:0:0:</channel><!-- RTL-TVi HD -->
+
+<!-- 13.0E --><channel id="Tipik.be">1:0:1:12D8:2E7C:13E:820000:0:0:0:</channel><!-- La Deux -->
+
+<!-- 19.2E --><channel id="ElevenProLeague1.fr.be">1:0:1:1034:451:35:C00000:0:0:0:</channel><!-- Eleven Pro League 1 FR -->
+
+<!-- 19.2E --><channel id="ElevenSports1F.be">1:0:16:100A:451:35:C00000:0:0:0:</channel><!-- Eleven Sports 1 F. -->
+
+<!-- 19.2E --><channel id="ElevenSports1F.be">1:0:16:101E:451:35:C00000:0:0:0:</channel><!-- Elevensports1 -->
+
+<!-- 19.2E --><channel id="ElevenSports1F.be">1:0:16:1032:451:35:C00000:0:0:0:</channel><!-- Elevensports1 -->
+
+<!-- 23.5E --><channel id="ElevenSports2F.be">1:0:16:5246:C99:3:EB0000:0:0:0:</channel><!-- Elevensports2 -->
+
+<!-- 26.0E --><channel id="AB3.be">1:0:19:25A:1A:800:1040000:0:0:0:</channel><!-- AB3 -->
+
+<!-- 19.2E --><channel id="DMax.ch">1:0:1:49:7:85:C00000:0:0:0:</channel><!-- DMAX Austria -->
+
+<!-- 19.2E --><channel id="DMax.ch">1:0:19:152E:455:1:C00000:0:0:0:</channel><!-- DMAX HD Austria -->
+
+<!-- 19.2E --><channel id="Pro7.ch">1:0:1:4E21:43A:1:C00000:0:0:0:</channel><!-- ProSieben Schweiz -->
+
+<!-- 19.2E --><channel id="Sat1.ch">1:0:1:4E26:43A:1:C00000:0:0:0:</channel><!-- SAT.1 CH -->
+
+<!-- 13.0E --><channel id="3plus.ch">1:0:19:64:3264:13E:820000:0:0:0:</channel><!-- 3+ HD -->
+
+<!-- 13.0E --><channel id="4plus.ch">1:0:19:65:3264:13E:820000:0:0:0:</channel><!-- 4+ HD -->
+
+<!-- 13.0E --><channel id="5plus.ch">1:0:19:66:3264:13E:820000:0:0:0:</channel><!-- 5+ HD -->
+
+<!-- 13.0E --><channel id="6plus.ch">1:0:19:69:3264:13E:820000:0:0:0:</channel><!-- 6+ HD -->
+
+<!-- 13.0E --><channel id="Kabel1.ch">1:0:19:7F:3264:13E:820000:0:0:0:</channel><!-- Kabel 1 Schweiz -->
+
+<!-- 13.0E --><channel id="Pro7.ch">1:0:19:73:3264:13E:820000:0:0:0:</channel><!-- ProSieben Schweiz -->
+
+<!-- 13.0E --><channel id="RSILa1.ch">1:0:19:426C:2DB4:13E:820000:0:0:0:</channel><!-- RSI La 1 HD -->
+
+<!-- 13.0E --><channel id="RSILa2.ch">1:0:19:426D:2DB4:13E:820000:0:0:0:</channel><!-- RSI La 2 HD -->
+
+<!-- 13.0E --><channel id="RTL.ch">1:0:19:6F:3264:13E:820000:0:0:0:</channel><!-- RTL Schweiz -->
+
+<!-- 13.0E --><channel id="RTL2.ch">1:0:19:70:3264:13E:820000:0:0:0:</channel><!-- RTL 2 Schweiz -->
+
+<!-- 13.0E --><channel id="RTSDeux.ch">1:0:19:426F:2DB4:13E:820000:0:0:0:</channel><!-- RTS Deux HD -->
+
+<!-- 13.0E --><channel id="RTSUn.ch">1:0:19:426E:2DB4:13E:820000:0:0:0:</channel><!-- RTS Un HD -->
+
+<!-- 13.0E --><channel id="S1.ch">1:0:19:6A:3264:13E:820000:0:0:0:</channel><!-- S1 HD Swiss View -->
+
+<!-- 13.0E --><channel id="Sat1.ch">1:0:19:72:3264:13E:820000:0:0:0:</channel><!-- Sat 1 Schweiz -->
+
+<!-- 13.0E --><channel id="SRF1.ch">1:0:19:4269:2DB4:13E:820000:0:0:0:</channel><!-- SRF 1 HD -->
+
+<!-- 13.0E --><channel id="SRF2.ch">1:0:19:426A:2DB4:13E:820000:0:0:0:</channel><!-- SRF zwei HD -->
+
+<!-- 13.0E --><channel id="SRFinfo.ch">1:0:19:426B:2DB4:13E:820000:0:0:0:</channel><!-- SRF info HD -->
+
+<!-- 13.0E --><channel id="TeleZuri.ch">1:0:19:6B:3264:13E:820000:0:0:0:</channel><!-- TeleZÃ¼ri HD -->
+
+<!-- 13.0E --><channel id="TV24.ch">1:0:19:67:3264:13E:820000:0:0:0:</channel><!-- TV 24 HD -->
+
+<!-- 13.0E --><channel id="TV25.ch">1:0:19:68:3264:13E:820000:0:0:0:</channel><!-- TV 25 HD -->
+
+<!-- 13.0E --><channel id="VOX.ch">1:0:19:71:3264:13E:820000:0:0:0:</channel><!-- VOX Schweiz -->
+
+<!-- 13.0E --><channel id="ArtiTV.ch">1:0:1:1F43:319C:13E:820000:0:0:0:</channel><!-- Arti TV -->
+
+<!-- 13.0E --><channel id="RSILa1.ch">1:0:19:4337:300C:13E:820000:0:0:0:</channel><!-- RSI La1 HD -->
+
+<!-- 13.0E --><channel id="RSILa2.ch">1:0:19:4338:300C:13E:820000:0:0:0:</channel><!-- RSI La 2 HD -->
+
+<!-- 13.0E --><channel id="RTSDeux.ch">1:0:19:4334:300C:13E:820000:0:0:0:</channel><!-- RTS Deux HD -->
+
+<!-- 13.0E --><channel id="RTSUn.ch">1:0:19:4333:300C:13E:820000:0:0:0:</channel><!-- RTS Un HD -->
+
+<!-- 13.0E --><channel id="SRF1.ch">1:0:19:4331:300C:13E:820000:0:0:0:</channel><!-- SRF 1\eins HD -->
+
+<!-- 13.0E --><channel id="SRF2.ch">1:0:19:4332:300C:13E:820000:0:0:0:</channel><!-- SRF zwei HD -->
+
+<!-- 13.0E --><channel id="SRFinfo.ch">1:0:19:4335:300C:13E:820000:0:0:0:</channel><!-- SRF info HD -->
+
+<!-- 13.0E --><channel id="SRFinfo.ch">1:0:19:4336:300C:13E:820000:0:0:0:</channel><!-- SRF info HD -->
+
+<!-- 19.2E --><channel id="3plus.ch">1:0:19:1260:3F7:1:C00000:0:0:0:</channel><!-- 3+ -->
+
+<!-- 19.2E --><channel id="6plus.ch">1:0:1:3E7:21:85:C00000:0:0:0:htpp://example.com</channel><!-- 6+ -->
+
+<!-- 19.2E --><channel id="SCHWEIZ5.ch">1:0:16:3401:3ED:1:C00000:0:0:0:</channel><!-- Schweiz 5 -->
+
+<!-- 5.0W --><channel id="viaVosges.ch">1:0:19:B83:51A4:55F:DDE0000:0:0:0:</channel><!-- Via Vosges -->
+
+
+
+</channels>
